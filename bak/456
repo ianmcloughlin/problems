@@ -1,0 +1,48 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=LcMHfvRS7ZoPWFj4)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Triangles containing the origin II
+----------------------------------
+
+### Problem 456
+
+Published on Sunday, 26th January 2014, 01:00 am; Solved by 270;
+Difficulty rating: 50%
+
+Define:\
+x~n~ = (1248^n^ mod 32323) - 16161\
+y~n~ = (8421^n^ mod 30103) - 15051\
+ P~n~ = {(x~1~, y~1~), (x~2~, y~2~), ..., (x~n~, y~n~)}
+
+For example, P~8~ = {(-14913, -6630), (-10161, 5625), (5226, 11896),
+(8340, -10778), (15852, -5203), (-15165, 11295), (-1427, -14495),
+(12407, 1060)}.
+
+Let C(n) be the number of triangles whose vertices are in P~n~ which
+contain the origin in the interior.
+
+Examples:\
+ C(8) = 20\
+ C(600) = 8950634\
+ C(40 000) = 2666610948988
+
+Find C(2 000 000).
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

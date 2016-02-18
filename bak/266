@@ -1,0 +1,39 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=vz09G9r8pTezpioQ)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Pseudo Square Root
+------------------
+
+### Problem 266
+
+Published on Saturday, 28th November 2009, 01:00 pm; Solved by 1127;
+Difficulty rating: 65%
+
+The divisors of 12 are: 1,2,3,4,6 and 12.\
+ The largest divisor of 12 that does not exceed the square root of 12 is
+3.\
+ We shall call the largest divisor of an integer n that does not exceed
+the square root of n the pseudo square root (PSR) of n.\
+ It can be seen that PSR(3102)=47.
+
+Let p be the product of the primes below 190.\
+ Find PSR(p) mod 10^16^.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

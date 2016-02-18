@@ -1,0 +1,35 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=78pS5Wn3LUe1EBgw)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Double pandigital number divisible by 11
+----------------------------------------
+
+### Problem 491
+
+Published on Sunday, 30th November 2014, 10:00 am; Solved by 963;
+Difficulty rating: 20%
+
+We call a positive integer *double pandigital* if it uses all the digits
+0 to 9 exactly twice (with no leading zero). For example,
+40561817703823564929 is one such number.
+
+How many double pandigital numbers are divisible by 11?
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

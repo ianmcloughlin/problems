@@ -1,0 +1,47 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=HKjNPpSPScCcEXqI)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Biclinic Integral Quadrilaterals
+--------------------------------
+
+### Problem 311
+
+Published on Saturday, 20th November 2010, 10:00 pm; Solved by 304;
+Difficulty rating: 70%
+
+ABCD is a convex, integer sided quadrilateral with 1 ≤ AB \< BC \< CD \<
+AD.\
+ BD has integer length. O is the midpoint of BD. AO has integer length.\
+ We'll call ABCD a *biclinic integral quadrilateral* if AO = CO ≤ BO =
+DO.\
+
+For example, the following quadrilateral is a biclinic integral
+quadrilateral:\
+ AB = 19, BC = 29, CD = 37, AD = 43, BD = 48 and AO = CO = 23.
+
+![p311\_biclinic.gif](project/images/p311_biclinic.gif)
+
+Let B(N) be the number of distinct biclinic integral quadrilaterals ABCD
+that satisfy AB^2^+BC^2^+CD^2^+AD^2^ ≤ N.\
+ We can verify that B(10 000) = 49 and B(1 000 000) = 38239.
+
+Find B(10 000 000 000).
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

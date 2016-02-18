@@ -1,0 +1,42 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=VD2CeQpPX2Ge5COP)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Champernowne's constant
+-----------------------
+
+### Problem 40
+
+Published on Friday, 28th March 2003, 06:00 pm; Solved by 52737;
+Difficulty rating: 5%
+
+An irrational decimal fraction is created by concatenating the positive
+integers:
+
+0.123456789101112131415161718192021...
+
+It can be seen that the 12^th^ digit of the fractional part is 1.
+
+If *d*~*n*~ represents the *n*^th^ digit of the fractional part, find
+the value of the following expression.
+
+*d*~1~ × *d*~10~ × *d*~100~ × *d*~1000~ × *d*~10000~ × *d*~100000~ ×
+*d*~1000000~
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

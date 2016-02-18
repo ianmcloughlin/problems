@@ -1,0 +1,36 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=yLDHdHz1UgmxqXld)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+An Arithmetic Geometric sequence
+--------------------------------
+
+### Problem 235
+
+Published on Saturday, 7th March 2009, 05:00 am; Solved by 3679;
+Difficulty rating: 40%
+
+Given is the arithmetic-geometric sequence u(k) = (900-3k)r^k-1^.\
+ Let s(n) = Σ~k=1...n~u(k).
+
+Find the value of r for which s(5000) = -600,000,000,000.
+
+Give your answer rounded to 12 places behind the decimal point.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

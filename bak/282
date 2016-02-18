@@ -1,0 +1,39 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=d6qqnZRj5aftBIQN)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+The Ackermann function
+----------------------
+
+### Problem 282
+
+Published on Friday, 12th March 2010, 05:00 pm; Solved by 652;
+Difficulty rating: 70%
+
+For non-negative integers m, n, the Ackermann function A(m, n) is
+defined as follows:
+
+![p282\_formula.gif](project/images/p282_formula.gif)
+
+For example A(1, 0) = 2, A(2, 2) = 7 and A(3, 4) = 125.
+
+Find ![p282formula3.gif](project/images/p282formula3.gif)A(n, n) and
+give your answer mod 14^8^.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

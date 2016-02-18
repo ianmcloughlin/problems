@@ -1,0 +1,38 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=kINCjW05x7tNO7Sf)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Pencils of rays
+---------------
+
+### Problem 372
+
+Published on Saturday, 18th February 2012, 01:00 pm; Solved by 282;
+Difficulty rating: 60%
+
+Let R(M, N) be the number of lattice points (x, y) which satisfy M\<x≤N,
+M\<y≤N and ![p372\_pencilray1.jpg](project/images/p372_pencilray1.jpg)
+is odd.\
+ We can verify that R(0, 100) = 3019 and R(100, 10000) = 29750422.\
+ Find R(2·10^6^, 10^9^).
+
+*Note*: ![p372\_pencilray2.gif](project/images/p372_pencilray2.gif)
+represents the floor function.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

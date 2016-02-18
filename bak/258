@@ -1,0 +1,36 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=o0HEjVN2VN5u2Pp7)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+A lagged Fibonacci sequence
+---------------------------
+
+### Problem 258
+
+Published on Saturday, 3rd October 2009, 09:00 am; Solved by 975;
+Difficulty rating: 70%
+
+A sequence is defined as:
+
+-   g~k~ = 1, for 0 ≤ k ≤ 1999
+-   g~k~ = g~k-2000~ + g~k-1999~, for k ≥ 2000.
+
+Find g~k~ mod 20092010 for k = 10^18^.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

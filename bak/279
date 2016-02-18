@@ -1,0 +1,32 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=uOzKAVEzCI6lc1BC)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Triangles with integral sides and an integral angle
+---------------------------------------------------
+
+### Problem 279
+
+Published on Saturday, 20th February 2010, 09:00 am; Solved by 460;
+Difficulty rating: 55%
+
+How many triangles are there with integral sides, at least one integral
+angle (measured in degrees), and a perimeter that does not exceed 10^8^?
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

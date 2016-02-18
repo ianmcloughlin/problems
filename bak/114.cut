@@ -1,0 +1,96 @@
+Counting block combinations I
+-----------------------------
+
+### Problem 114
+
+Published on Friday, 17th February 2006, 06:00 pm; Solved by 7122;
+Difficulty rating: 35%
+
+A row measuring seven units in length has red blocks with a minimum
+length of three units placed on it, such that any two red blocks (which
+are allowed to be different lengths) are separated by at least one black
+square. There are exactly seventeen ways of doing this.
+
++--------------------------+--------------------------+--------------------------+
+|   ---------- ----------  |   -------------- ------- |   ---------------------- |
+| ---------- ---------- -- | ------- -------------- - | -- --------------------- |
+| -------- ---------- ---- | ------------- ---------- | --- -------------------- |
+| ------                   | ----                     | ----                     |
+|   ![](images             |   ![](images/spa         |   ![](images/spacer.gif) |
+|   /spacer.gi             |   cer.gif)               |   ![](images/spacer.gif) |
+|   f)                     |   ![](images/spa         |   ![](images/spacer.gif) |
+|   ![](images             |   cer.gif)               |   ---------------------- |
+|   /spacer.gi             |   ![](images/spa         | -- --------------------- |
+|   f)                     |   cer.gif)               | --- -------------------- |
+|   ![](images             |   ![](images/spa         | ----                     |
+|   /spacer.gi             |   cer.gif)               |                          |
+|   f)                     |   ![](images/spa         |   ------------------ --- |
+|   ![](images             |   cer.gif)               | --------------- -------- |
+|   /spacer.gi             |   -------------- ------- | ---------- ------------- |
+|   f)                     | ------- -------------- - | -----                    |
+|   ![](images             | ------------- ---------- |   ![](images/spacer.     |
+|   /spacer.gi             | ----                     |   gif)                   |
+|   f)                     |                          |   ![](images/spacer.     |
+|   ![](images             |   -------------- ------- |   gif)                   |
+|   /spacer.gi             | ------- -------------- - |   ![](images/spacer.     |
+|   f)                     | ------------- ---------- |   gif)                   |
+|   ![](images             | ----                     |   ![](images/spacer.     |
+|   /spacer.gi             |   ![](images/spa         |   gif)                   |
+|   f)                     |   cer.gif)               |   ------------------ --- |
+|   ---------- ----------  |   ![](images/spa         | --------------- -------- |
+| ---------- ---------- -- |   cer.gif)               | ---------- ------------- |
+| -------- ---------- ---- |   ![](images/spa         | -----                    |
+| ------                   |   cer.gif)               |                          |
+|                          |   ![](images/spa         |   ------------------ --- |
+|   -------------- ------- |   cer.gif)               | --------------- -------- |
+| ------- -------------- - |   ![](images/spa         | ---------- ------------- |
+| ------------- ---------- |   cer.gif)               | -----                    |
+| ----                     |   -------------- ------- |   ![](images/spacer.     |
+|   ![](images/spa         | ------- -------------- - |   gif)                   |
+|   cer.gif)               | ------------- ---------- |   ![](images/spacer.     |
+|   ![](images/spa         | ----                     |   gif)                   |
+|   cer.gif)               |                          |   ![](images/spacer.     |
+|   ![](images/spa         |   -------------- ------- |   gif)                   |
+|   cer.gif)               | ------- -------------- - |   ![](images/spacer.     |
+|   ![](images/spa         | ------------- ---------- |   gif)                   |
+|   cer.gif)               | ----                     |   ------------------ --- |
+|   ![](images/spa         |   ![](images/spa         | --------------- -------- |
+|   cer.gif)               |   cer.gif)               | ---------- ------------- |
+|   -------------- ------- |   ![](images/spa         | -----                    |
+| ------- -------------- - |   cer.gif)               |                          |
+| ------------- ---------- |   ![](images/spa         |                          |
+| ----                     |   cer.gif)               |                          |
+|                          |   ![](images/spa         |                          |
+|   -------------- ------- |   cer.gif)               |                          |
+| ------- -------------- - |   ![](images/spa         |                          |
+| ------------- ---------- |   cer.gif)               |                          |
+| ----                     |   -------------- ------- |                          |
+|   ![](images/spa         | ------- -------------- - |                          |
+|   cer.gif)               | ------------- ---------- |                          |
+|   ![](images/spa         | ----                     |                          |
+|   cer.gif)               |                          |                          |
+|   ![](images/spa         |                          |                          |
+|   cer.gif)               |                          |                          |
+|   ![](images/spa         |                          |                          |
+|   cer.gif)               |                          |                          |
+|   ![](images/spa         |                          |                          |
+|   cer.gif)               |                          |                          |
+|   -------------- ------- |                          |                          |
+| ------- -------------- - |                          |                          |
+| ------------- ---------- |                          |                          |
+| ----                     |                          |                          |
++--------------------------+--------------------------+--------------------------+
+
+How many ways can a row measuring fifty units in length be filled?
+
+NOTE: Although the example above does not lend itself to the
+possibility, in general it is permitted to mix block sizes. For example,
+on a row measuring eight units in length you could use red (3), black
+(1), and red (4).
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

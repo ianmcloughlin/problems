@@ -1,0 +1,40 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=TE4verNhaFfKKRnp)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+The hyperexponentiation of a number
+-----------------------------------
+
+### Problem 188
+
+Published on Friday, 4th April 2008, 02:00 pm; Solved by 4490;
+Difficulty rating: 35%
+
+The hyperexponentiation or tetration of a number a by a positive integer
+b, denoted by a↑↑b or ^b^a, is recursively defined by:\
+\
+ a↑↑1 = a,\
+ a↑↑(k+1) = a^(a↑↑k)^.
+
+Thus we have e.g. 3↑↑2 = 3^3^ = 27, hence 3↑↑3 = 3^27^ = 7625597484987
+and 3↑↑4 is roughly 10^3.6383346400240996\*10\^12^.
+
+Find the last 8 digits of 1777↑↑1855.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

@@ -1,0 +1,35 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=ubWgF8do29FDSE98)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Binomial coefficients divisible by 10
+-------------------------------------
+
+### Problem 322
+
+Published on Sunday, 30th January 2011, 04:00 am; Solved by 306;
+Difficulty rating: 70%
+
+Let T(m, n) be the number of the binomial coefficients ^i^C~n~ that are
+divisible by 10 for n ≤ i \< m(i, m and n are positive integers).\
+ You are given that T(10^9^, 10^7^-10) = 989697000.
+
+Find T(10^18^, 10^12^-10).
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

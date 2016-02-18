@@ -1,0 +1,21 @@
+A lagged Fibonacci sequence
+---------------------------
+
+### Problem 258
+
+Published on Saturday, 3rd October 2009, 09:00 am; Solved by 975;
+Difficulty rating: 70%
+
+A sequence is defined as:
+
+-   g~k~ = 1, for 0 ≤ k ≤ 1999
+-   g~k~ = g~k-2000~ + g~k-1999~, for k ≥ 2000.
+
+Find g~k~ mod 20092010 for k = 10^18^.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

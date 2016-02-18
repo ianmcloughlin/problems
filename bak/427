@@ -1,0 +1,44 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=4OnJkXT667mj26s0)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+n-sequences
+-----------
+
+### Problem 427
+
+Published on Saturday, 11th May 2013, 10:00 pm; Solved by 154;
+Difficulty rating: 95%
+
+A sequence of integers S = {s~i~} is called an n-sequence if it has n
+elements and each element s~i~ satisfies 1 ≤ s~i~ ≤ n. Thus there are
+n^n^ distinct n-sequences in total. For example, the sequence S = {1, 5,
+5, 10, 7, 7, 7, 2, 3, 7} is a 10-sequence.
+
+For any sequence S, let L(S) be the length of the longest contiguous
+subsequence of S with the same value. For example, for the given
+sequence S above, L(S) = 3, because of the three consecutive 7's.
+
+Let f(n) = ∑ L(S) for all n-sequences S.
+
+For example, f(3) = 45, f(7) = 1403689 and f(11) = 481496895121.
+
+Find f(7 500 000) mod 1 000 000 009.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

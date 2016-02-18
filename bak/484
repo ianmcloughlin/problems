@@ -1,0 +1,40 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=d2xKyjkoawajnpgp)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Arithmetic Derivative
+---------------------
+
+### Problem 484
+
+Published on Saturday, 11th October 2014, 01:00 pm; Solved by 120;
+Difficulty rating: 100%
+
+The **arithmetic derivative** is defined by
+
+-   p' = 1 for any prime p
+-   (ab)' = a'b + ab' for all integers a, b (Leibniz rule)
+
+For example, 20' = 24
+
+Find ∑ **gcd**(k,k') for 1 \< k ≤ 5·10^15^
+
+Note: **gcd**(x,y) denotes the greatest common divisor of x and y.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

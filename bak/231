@@ -1,0 +1,36 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=pekOgrOSSFAoPb3r)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+The prime factorisation of binomial coefficients
+------------------------------------------------
+
+### Problem 231
+
+Published on Friday, 6th February 2009, 01:00 pm; Solved by 3848;
+Difficulty rating: 40%
+
+The binomial coefficient ^10^C~3~ = 120.\
+ 120 = 2^3^ × 3 × 5 = 2 × 2 × 2 × 3 × 5, and 2 + 2 + 2 + 3 + 5 = 14.\
+ So the sum of the terms in the prime factorisation of ^10^C~3~ is 14.\
+\
+ Find the sum of the terms in the prime factorisation of
+^20000000^C~15000000~.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

@@ -1,0 +1,39 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=eLYPVMVFBgQU8rnq)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Truncatable primes
+------------------
+
+### Problem 37
+
+Published on Friday, 14th February 2003, 06:00 pm; Solved by 48238;
+Difficulty rating: 5%
+
+The number 3797 has an interesting property. Being prime itself, it is
+possible to continuously remove digits from left to right, and remain
+prime at each stage: 3797, 797, 97, and 7. Similarly we can work from
+right to left: 3797, 379, 37, and 3.
+
+Find the sum of the only eleven primes that are both truncatable from
+left to right and right to left.
+
+NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

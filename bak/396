@@ -1,0 +1,56 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=lZkgB9Yi9aFYp4Tv)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Weak Goodstein sequence
+-----------------------
+
+### Problem 396
+
+Published on Sunday, 30th September 2012, 02:00 am; Solved by 389;
+Difficulty rating: 40%
+
+For any positive integer n, the **nth weak Goodstein sequence** {g~1~,
+g~2~, g~3~, ...} is defined as:
+
+-   g~1~ = n
+-   for k \> 1, g~k~ is obtained by writing g~k-1~ in base k,
+    interpreting it as a base k + 1 number, and subtracting 1.
+
+The sequence terminates when g~k~ becomes 0.
+
+For example, the 6th weak Goodstein sequence is {6, 11, 17, 25, ...}:
+
+-   g~1~ = 6.
+-   g~2~ = 11 since 6 = 110~2~, 110~3~ = 12, and 12 - 1 = 11.
+-   g~3~ = 17 since 11 = 102~3~, 102~4~ = 18, and 18 - 1 = 17.
+-   g~4~ = 25 since 17 = 101~4~, 101~5~ = 26, and 26 - 1 = 25.
+
+and so on.
+
+It can be shown that every weak Goodstein sequence terminates.
+
+Let G(n) be the number of nonzero elements in the nth weak Goodstein
+sequence.\
+ It can be verified that G(2) = 3, G(4) = 21 and G(6) = 381.\
+ It can also be verified that ΣG(n) = 2517 for 1 ≤ n \< 8.
+
+Find the last 9 digits of ΣG(n) for 1 ≤ n \< 16.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

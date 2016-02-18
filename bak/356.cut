@@ -1,0 +1,24 @@
+Largest roots of cubic polynomials
+----------------------------------
+
+### Problem 356
+
+Published on Saturday, 29th October 2011, 01:00 pm; Solved by 354;
+Difficulty rating: 60%
+
+Let a~n~ be the largest real root of a polynomial g(x) = x^3^ -
+2^n^·x^2^ + n.\
+ For example, a~2~ = 3.86619826...
+
+Find the last eight digits
+of![p356\_cubicpoly1.gif](project/images/p356_cubicpoly1.gif).
+
+*Note*: ![p356\_cubicpoly2.gif](project/images/p356_cubicpoly2.gif)
+represents the floor function.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

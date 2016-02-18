@@ -1,0 +1,34 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=yuBNMSzbJdt80iQo)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Self powers
+-----------
+
+### Problem 48
+
+Published on Friday, 18th July 2003, 06:00 pm; Solved by 77035;
+Difficulty rating: 5%
+
+The series, 1^1^ + 2^2^ + 3^3^ + ... + 10^10^ = 10405071317.
+
+Find the last ten digits of the series, 1^1^ + 2^2^ + 3^3^ + ... +
+1000^1000^.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

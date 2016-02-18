@@ -1,0 +1,47 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=aATuo8nvGcTOWSkx)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Largest prime factors of consecutive numbers
+--------------------------------------------
+
+### Problem 526
+
+Published on Saturday, 19th September 2015, 01:00 pm; Solved by 183;
+Difficulty rating: 60%
+
+Let f(n) be the largest prime factor of n.
+
+Let g(n) = f(n) + f(n+1) + f(n+2) + f(n+3) + f(n+4) + f(n+5) + f(n+6) +
+f(n+7) + f(n+8), the sum of the largest prime factor of each of nine
+consecutive numbers starting with n.
+
+Let h(n) be the maximum value of g(k) for 2 ≤ k ≤ n.
+
+You are given:
+
+-   f(100) = 5
+-   f(101) = 101
+-   g(100) = 409
+-   h(100) = 417
+-   h(10^9^) = 4896292593
+
+Find h(10^16^).
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

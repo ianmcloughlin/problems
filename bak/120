@@ -1,0 +1,38 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=KxvN2EgNYINAtkJv)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Square remainders
+-----------------
+
+### Problem 120
+
+Published on Friday, 21st April 2006, 06:00 pm; Solved by 9329;
+Difficulty rating: 25%
+
+Let *r* be the remainder when (*a*−1)^*n*^ + (*a*+1)^*n*^ is divided by
+*a*^2^.
+
+For example, if *a* = 7 and *n* = 3, then *r* = 42: 6^3^ + 8^3^ = 728 ≡
+42 mod 49. And as *n* varies, so too will *r*, but for *a* = 7 it turns
+out that *r*~max~ = 42.
+
+For 3 ≤ *a* ≤ 1000, find ∑ *r*~max~.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

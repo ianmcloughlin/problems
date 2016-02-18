@@ -1,0 +1,42 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=fJcMliKFZD0Ea698)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Using up to one million tiles how many different "hollow" square laminae can be formed?
+---------------------------------------------------------------------------------------
+
+### Problem 173
+
+Published on Saturday, 22nd December 2007, 01:00 pm; Solved by 6271;
+Difficulty rating: 30%
+
+We shall define a square lamina to be a square outline with a square
+"hole" so that the shape possesses vertical and horizontal symmetry. For
+example, using exactly thirty-two square tiles we can form two different
+square laminae:
+
+![](project/images/p173_square_laminas.gif)
+
+With one-hundred tiles, and not necessarily using all of the tiles at
+one time, it is possible to form forty-one different square laminae.
+
+Using up to one million tiles how many different square laminae can be
+formed?
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

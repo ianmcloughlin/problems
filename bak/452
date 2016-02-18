@@ -1,0 +1,38 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=RIVHbnc2bbNEGsJJ)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Long Products
+-------------
+
+### Problem 452
+
+Published on Saturday, 28th December 2013, 01:00 pm; Solved by 319;
+Difficulty rating: 45%
+
+Define F(m,n) as the number of n-tuples of positive integers for which
+the product of the elements doesn't exceed m.
+
+F(10, 10) = 571.
+
+F(10^6^, 10^6^) mod 1 234 567 891 = 252903833.
+
+Find F(10^9^, 10^9^) mod 1 234 567 891.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

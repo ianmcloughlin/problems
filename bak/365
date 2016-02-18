@@ -1,0 +1,37 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=c7uqtBeoMO3opuG7)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+A huge binomial coefficient
+---------------------------
+
+### Problem 365
+
+Published on Saturday, 31st December 2011, 04:00 pm; Solved by 734;
+Difficulty rating: 40%
+
+The binomial coeffient C(10^18^,10^9^) is a number with more than 9
+billion (9×10^9^) digits.
+
+Let M(n,k,m) denote the binomial coefficient C(n,k) modulo m.
+
+Calculate ∑M(10^18^,10^9^,p\*q\*r) for 1000\<p\<q\<r\<5000 and p,q,r
+prime.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

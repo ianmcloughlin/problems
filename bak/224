@@ -1,0 +1,35 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=AFY9g0mV8bfmwUVa)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Almost right-angled triangles II
+--------------------------------
+
+### Problem 224
+
+Published on Friday, 26th December 2008, 05:00 pm; Solved by 783;
+Difficulty rating: 75%
+
+Let us call an integer sided triangle with sides a ≤ b ≤ c *barely
+obtuse* if the sides satisfy\
+a^2^ + b^2^ = c^2^ - 1.
+
+How many barely obtuse triangles are there with perimeter ≤ 75,000,000?
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

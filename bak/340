@@ -1,0 +1,43 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=fFCJNbYAFuVZYlfy)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Crazy Function
+--------------
+
+### Problem 340
+
+Published on Sunday, 29th May 2011, 07:00 am; Solved by 614; Difficulty
+rating: 30%
+
+For fixed integers a, b, c, define the *crazy function* F(n) as
+follows:\
+ F(n) = n - c for all n \> b\
+ F(n) = F(a + F(a + F(a + F(a + n)))) for all n ≤ b.
+
+Also, define S(a, b, c) =
+![p340\_formula.gif](project/images/p340_formula.gif).
+
+For example, if a = 50, b = 2000 and c = 40, then F(0) = 3240 and
+F(2000) = 2040.\
+ Also, S(50, 2000, 40) = 5204240.
+
+Find the last 9 digits of S(21^7^, 7^21^, 12^7^).
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

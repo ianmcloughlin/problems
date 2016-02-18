@@ -1,0 +1,37 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=HlHESdIPe8ZMsGqh)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Divisor Square Sum
+------------------
+
+### Problem 211
+
+Published on Saturday, 4th October 2008, 02:00 am; Solved by 2745;
+Difficulty rating: 50%
+
+For a positive integer n, let σ~2~(n) be the sum of the squares of its
+divisors. For example,
+
+σ~2~(10) = 1 + 4 + 25 + 100 = 130.
+
+Find the sum of all n, 0 \< n \< 64,000,000 such that σ~2~(n) is a
+perfect square.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

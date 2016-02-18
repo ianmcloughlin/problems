@@ -1,0 +1,38 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=xWqnETGBTdpf6KGw)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Idempotents
+-----------
+
+### Problem 407
+
+Published on Sunday, 23rd December 2012, 10:00 am; Solved by 1199;
+Difficulty rating: 20%
+
+If we calculate a^2^ mod 6 for 0 ≤ a ≤ 5 we get: 0,1,4,3,4,1.
+
+The largest value of a such that a^2^ ≡ a mod 6 is 4.\
+ Let's call M(n) the largest value of a \< n such that a^2^ ≡ a (mod
+n).\
+ So M(6) = 4.
+
+Find ∑M(n) for 1 ≤ n ≤ 10^7^.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

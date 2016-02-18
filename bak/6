@@ -1,0 +1,43 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=nBjd1PnLhD2FohKe)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Sum square difference
+---------------------
+
+### Problem 6
+
+Published on Friday, 14th December 2001, 06:00 pm; Solved by 299555;
+Difficulty rating: 5%
+
+The sum of the squares of the first ten natural numbers is,
+
+1^2^ + 2^2^ + ... + 10^2^ = 385
+
+The square of the sum of the first ten natural numbers is,
+
+(1 + 2 + ... + 10)^2^ = 55^2^ = 3025
+
+Hence the difference between the sum of the squares of the first ten
+natural numbers and the square of the sum is 3025 − 385 = 2640.
+
+Find the difference between the sum of the squares of the first one
+hundred natural numbers and the square of the sum.
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+

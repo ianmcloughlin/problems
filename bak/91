@@ -1,0 +1,44 @@
+-   [About](about "About")
+-   [Archives](archives "Archives")
+-   [Recent](recent "Recent")
+-   [News](news "News")
+-   [Register](register "Register")
+-   [Sign In](sign_in "Sign In")
+
+Project Euler.net
+
+[![RSS
+Feed](images/icon_rss.png "RSS Feed")](rss2_euler.xml)[![secure\_icon](images/icon_lock.png)](secure=kPcOoSzZYMnJdihB)You
+are currently using a secure connection
+
+![projecteuler.net](images/print_page_logo.png)
+
+Right triangles with integer coordinates
+----------------------------------------
+
+### Problem 91
+
+Published on Friday, 18th March 2005, 06:00 pm; Solved by 10045;
+Difficulty rating: 25%
+
+The points P (*x*~1~, *y*~1~) and Q (*x*~2~, *y*~2~) are plotted at
+integer co-ordinates and are joined to the origin, O(0,0), to form ΔOPQ.
+
+![](project/images/p091_1.gif)\
+
+There are exactly fourteen triangles containing a right angle that can
+be formed when each co-ordinate lies between 0 and 2 inclusive; that
+is,\
+0 ≤ *x*~1~, *y*~1~, *x*~2~, *y*~2~ ≤ 2.
+
+![](project/images/p091_2.gif)\
+
+Given that 0 ≤ *x*~1~, *y*~1~, *x*~2~, *y*~2~ ≤ 50, how many right
+triangles can be formed?
+
+\
+\
+
+Project Euler: [Copyright Information](copyright) | [Privacy
+Policy](privacy)
+
