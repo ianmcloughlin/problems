@@ -45,7 +45,7 @@ reach configuration (**T**).
   (**S**)
   ![img/p244_start.gif](img/p244_start.gif)
   , (**T**)
-  ![p244\_target.gif](img/p_244_target.gif)
+  ![img/p244_target.gif](img/p244_target.gif)
   ------------------ ------------------ ------------------ ------------------
 
 What is the sum of all checksums for the paths having the minimal
