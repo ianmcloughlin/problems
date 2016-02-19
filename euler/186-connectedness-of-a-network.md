@@ -9,11 +9,11 @@ Connectedness of a network
 Here are the records from a busy telephone system with one million
 users:
 
-  ------------------------ ------------------------ ------------------------
-  RecNr                    1                        2
-  Caller                   200007                   600183
-  Called                   100053                   500439
-  ------------------------ ------------------------ ------------------------
+
+|RecNr                  |1                        |2|
+|------------------------|------------------------|------------------------|
+|Caller                   |200007                   |600183|
+|Called                   |100053                   |500439|
 
 The telephone number of the caller and the called number in record n are
 Caller(n) = S<sub>2n-1</sub> and Called(n) = S<sub>2n</sub> where S<sub>1,2,3,...</sub> come from
