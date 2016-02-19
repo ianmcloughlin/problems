@@ -13,18 +13,18 @@ The following procedure (essentially Heron's method adapted to integer
 arithmetic) finds the rounded-square-root of n:
 
 Let d be the number of digits of the number n.\
- If d is odd, set x~0~ = 2×10<sup>(d-1)⁄2</sup>.\
- If d is even, set x~0~ = 7×10<sup>(d-2)⁄2</sup>.\
+ If d is odd, set x<sub>0</sub> = 2×10<sup>(d-1)⁄2</sup>.\
+ If d is even, set x<sub>0</sub> = 7×10<sup>(d-2)⁄2</sup>.\
  Repeat:
 
 ![p255\_Heron.gif](img/p255_Heron.gif)
 
-until x~k+1~ = x~k~.
+until x<sub>k+1</sub> = x<sub>k</sub>.
 
 As an example, let us find the rounded-square-root of n = 4321.\
-n has 4 digits, so x~0~ = 7×10<sup>(4-2)⁄2</sup> = 70.\
+n has 4 digits, so x<sub>0</sub> = 7×10<sup>(4-2)⁄2</sup> = 70.\
 ![p255\_Example.gif](img/p255_Example.gif)\
- Since x~2~ = x~1~, we stop here.\
+ Since x<sub>2</sub> = x<sub>1</sub>, we stop here.\
  So, after just two iterations, we have found that the
 rounded-square-root of 4321 is 66 (the actual square root is
 65.7343137…).

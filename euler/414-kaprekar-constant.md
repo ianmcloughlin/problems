@@ -30,16 +30,16 @@ or the constant the routine arrives at can be different for different
 input numbers.\
  However, it can be shown that for 5 digits and a base b = 6t+3≠9, a
 Kaprekar constant exists.\
- E.g. base 15: (10,4,14,9,5)~15~\
- base 21: (14,6,20,13,7)~21~
+ E.g. base 15: (10,4,14,9,5)<sub>15</sub>\
+ base 21: (14,6,20,13,7)<sub>21</sub>
 
-Define C~b~ to be the Kaprekar constant in base b for 5 digits. Define
+Define C<sub>b</sub> to be the Kaprekar constant in base b for 5 digits. Define
 the function sb(i) to be
 
--   0 if i = C~b~ or if i written in base b consists of 5 identical
+-   0 if i = C<sub>b</sub> or if i written in base b consists of 5 identical
     digits
 -   the number of iterations it takes the Kaprekar routine in base b to
-    arrive at C~b~, otherwise
+    arrive at C<sub>b</sub>, otherwise
 
 Note that we can define sb(i) for all integers i \< b<sup>5</sup>. If i written
 in base b takes less than 5 digits, the number is padded with leading

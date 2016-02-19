@@ -26,12 +26,12 @@ all.\
 
 Consider the sequence s, defined as follows:
 
--   s~1~ = 1, s~2~ = 2, s~3~ = 3
--   s~n~ = s~n-1~ + s~n-3~ for n \> 3.
+-   s<sub>1</sub> = 1, s<sub>2</sub> = 2, s<sub>3</sub> = 3
+-   s<sub>n</sub> = s<sub>n-1</sub> + s<sub>n-3</sub> for n \> 3.
 
-Let U~n~ be the set {s~1~, s~2~, ..., s~n~}. For example, U~10~ = {1, 2,
+Let U<sub>n</sub> be the set {s<sub>1</sub>, s<sub>2</sub>, ..., s<sub>n</sub>}. For example, U<sub>10</sub> = {1, 2,
 3, 4, 6, 9, 13, 19, 28, 41}.\
- Let f(n) be the number of subsets of U~n~ which generate at least one
+ Let f(n) be the number of subsets of U<sub>n</sub> which generate at least one
 polygon.\
  For example, f(5) = 7, f(10) = 501 and f(25) = 18635853.
 

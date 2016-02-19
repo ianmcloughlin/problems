@@ -6,7 +6,7 @@ Squarefree Binomial Coefficients
 
 *Difficulty rating: 25%*
 
-The binomial coefficients <sup>n</sup>C~k~ can be arranged in triangular form,
+The binomial coefficients <sup>n</sup>C<sub>k</sub> can be arranged in triangular form,
 Pascal's triangle, like this:
 
 1

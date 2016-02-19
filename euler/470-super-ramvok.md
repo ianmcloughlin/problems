@@ -40,6 +40,6 @@ optimally-played game of Super Ramvok, given a fair d-sided die to start
 (with all sides visible), and cost constant c. For example, S(6, 1) =
 208.3.
 
-Let F(n) = ∑~4≤d≤n~ ∑~0≤c≤n~ S(d, c).
+Let F(n) = ∑<sub>4≤d≤n</sub> ∑<sub>0≤c≤n</sub> S(d, c).
 
 Calculate F(20), rounded to the nearest integer.

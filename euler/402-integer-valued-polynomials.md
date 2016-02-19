@@ -17,8 +17,8 @@ Also, define S(N) as the sum of M(a, b, c) for all 0 \< a, b, c ≤ N.
 
 We can verify that S(10) = 1972 and S(10000) = 2024258331114.
 
-Let F~k~ be the Fibonacci sequence:\
- F~0~ = 0, F~1~ = 1 and\
- F~k~ = F~k-1~ + F~k-2~ for k ≥ 2.
+Let F<sub>k</sub> be the Fibonacci sequence:\
+ F<sub>0</sub> = 0, F<sub>1</sub> = 1 and\
+ F<sub>k</sub> = F<sub>k-1</sub> + F<sub>k-2</sub> for k ≥ 2.
 
-Find the last 9 digits of Σ S(F~k~) for 2 ≤ k ≤ 1234567890123.
+Find the last 9 digits of Σ S(F<sub>k</sub>) for 2 ≤ k ≤ 1234567890123.

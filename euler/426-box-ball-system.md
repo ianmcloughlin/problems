@@ -31,16 +31,16 @@ boxes** evolves to [1, 2, 3]; we shall call this the final state.
 
 ![p426\_baxball2.gif](img/p426_baxball2.gif)
 
-We define the sequence {t~i~}:\
+We define the sequence {t<sub>i</sub>}:\
 
--   s~0~ = 290797
--   s~k+1~ = s~k~<sup>2</sup> mod 50515093
--   t~k~ = (s~k~ mod 64) + 1
+-   s<sub>0</sub> = 290797
+-   s<sub>k+1</sub> = s<sub>k</sub><sup>2</sup> mod 50515093
+-   t<sub>k</sub> = (s<sub>k</sub> mod 64) + 1
 
-Starting from the initial configuration (t~0~, t~1~, …, t~10~), the
+Starting from the initial configuration (t<sub>0</sub>, t<sub>1</sub>, …, t<sub>10</sub>), the
 final state becomes [1, 3, 10, 24, 51, 75].\
- Starting from the initial configuration (t~0~, t~1~, …,
-t~10\\ 000\\ 000~), find the final state.\
+ Starting from the initial configuration (t<sub>0</sub>, t<sub>1</sub>, …,
+t<sub>10\\ 000\\ 000</sub>), find the final state.\
  Give as your answer the sum of the squares of the elements of the final
 state. For example, if the final state is [1, 2, 3] then 14 ( = 1<sup>2</sup> +
 2<sup>2</sup> + 3<sup>2</sup>) is your answer.

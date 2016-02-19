@@ -6,10 +6,10 @@ Retractions A
 
 *Difficulty rating: 50%*
 
-For every integer n\>1, the family of functions f~n,a,b~ is defined by
-f~n,a,b~(x)≡ax+b mod n for a,b,x integer and 0\<a\<n, 0≤b\<n, 0≤x\<n.\
- We will call f~n,a,b~ a *retraction* if
-f~n,a,b~(f~n,a,b~(x))≡f~n,a,b~(x) mod n for every 0≤x\<n.\
+For every integer n\>1, the family of functions f<sub>n,a,b</sub> is defined by
+f<sub>n,a,b</sub>(x)≡ax+b mod n for a,b,x integer and 0\<a\<n, 0≤b\<n, 0≤x\<n.\
+ We will call f<sub>n,a,b</sub> a *retraction* if
+f<sub>n,a,b</sub>(f<sub>n,a,b</sub>(x))≡f<sub>n,a,b</sub>(x) mod n for every 0≤x\<n.\
  Let R(n) be the number of retractions for n.
 
 You are given that\

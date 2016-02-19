@@ -23,9 +23,9 @@ the binary digits starting with the subsequence of all zeros as the most
 significant bits and proceeding clockwise. The two arrangements for N=3
 are thus represented as 23 and 29:
 
-00010111 ~2~ = 23
+00010111 <sub>2</sub> = 23
 
-00011101 ~2~ = 29
+00011101 <sub>2</sub> = 29
 
 Calling S(N) the sum of the unique numeric representations, we can see
 that S(3) = 23 + 29 = 52.

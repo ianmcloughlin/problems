@@ -6,26 +6,26 @@ Subsequence of Thue-Morse sequence
 
 *Difficulty rating: 90%*
 
-The **Thue-Morse sequence** {T~n~} is a binary sequence satisfying:
+The **Thue-Morse sequence** {T<sub>n</sub>} is a binary sequence satisfying:
 
--   T~0~ = 0
--   T~2n~ = T~n~
--   T~2n+1~ = 1 - T~n~
+-   T<sub>0</sub> = 0
+-   T<sub>2n</sub> = T<sub>n</sub>
+-   T<sub>2n+1</sub> = 1 - T<sub>n</sub>
 
-The first several terms of {T~n~} are given as follows:\
+The first several terms of {T<sub>n</sub>} are given as follows:\
  01101001100101101001011001101001....
 
-We define {A~n~} as the sorted sequence of integers such that the binary
-expression of each element appears as a subsequence in {T~n~}.\
+We define {A<sub>n</sub>} as the sorted sequence of integers such that the binary
+expression of each element appears as a subsequence in {T<sub>n</sub>}.\
  For example, the decimal number 18 is expressed as 10010 in binary.
-10010 appears in {T~n~} (T~8~ to T~12~), so 18 is an element of {A~n~}.\
+10010 appears in {T<sub>n</sub>} (T<sub>8</sub> to T<sub>12</sub>), so 18 is an element of {A<sub>n</sub>}.\
  The decimal number 14 is expressed as 1110 in binary. 1110 never
-appears in {T~n~}, so 14 is not an element of {A~n~}.
+appears in {T<sub>n</sub>}, so 14 is not an element of {A<sub>n</sub>}.
 
-The first several terms of A~n~ are given as follows:\
+The first several terms of A<sub>n</sub> are given as follows:\
 
   ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----
-  n    A~n~
+  n    A<sub>n</sub>
   0    0
   1    1
   2    2
@@ -42,7 +42,7 @@ The first several terms of A~n~ are given as follows:\
   …    …
   ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ----
 
-We can also verify that A~100~ = 3251 and A~1000~ = 80852364498.
+We can also verify that A<sub>100</sub> = 3251 and A<sub>1000</sub> = 80852364498.
 
 Find the last 9 digits of
 ![p361\_Thue-Morse1.gif](img/p361_Thue-Morse1.gif).

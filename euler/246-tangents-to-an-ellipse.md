@@ -19,9 +19,9 @@ Given are the points M(-2000,1500) and G(8000,1500).\
  Given is also the circle c with centre M and radius 15000.\
  The locus of the points that are equidistant from G and c form an
 ellipse e.\
- From a point P outside e the two tangents t~1~ and t~2~ to the ellipse
+ From a point P outside e the two tangents t<sub>1</sub> and t<sub>2</sub> to the ellipse
 are drawn.\
- Let the points where t~1~ and t~2~ touch the ellipse be R and S.
+ Let the points where t<sub>1</sub> and t<sub>2</sub> touch the ellipse be R and S.
 
 ![](img/p246_ellipse.gif)
 

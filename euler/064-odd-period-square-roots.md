@@ -9,21 +9,13 @@ Odd period square roots
 All square roots are periodic when written as continued fractions and
 can be written in the form:
 
-√N = a~0~ +
+√N = a<sub>0</sub> +
 
 1
 
  
 
-a~1~ +
-
-1
-
- 
-
- 
-
-a~2~ +
+a<sub>1</sub> +
 
 1
 
@@ -31,9 +23,17 @@ a~2~ +
 
  
 
+a<sub>2</sub> +
+
+1
+
  
 
-a~3~ + ...
+ 
+
+ 
+
+a<sub>3</sub> + ...
 
 For example, let us consider √23:
 
@@ -100,7 +100,7 @@ If we continue we would get the following expansion:
 The process can be summarised as follows:
 
   ---------- ---------- ---------- ---------- ---------- ---------- ----------
-  a~0~ = 4,  a~1~ = 1,  a~2~ = 3,  a~3~ = 1,  a~4~ = 8,  a~5~ = 1,  a~6~ = 3,
+  a<sub>0</sub> = 4,  a<sub>1</sub> = 1,  a<sub>2</sub> = 3,  a<sub>3</sub> = 1,  a<sub>4</sub> = 8,  a<sub>5</sub> = 1,  a<sub>6</sub> = 3,
                                                                      
   1\         7\         2\         7\         1\         7\         2\
   √23—4      √23—3      √23—3      √23—4      √23—4      √23—3      √23—3

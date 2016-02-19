@@ -13,10 +13,10 @@ N/k, so that N = r + r + ... + r.\
 For example, if 11 is split into five equal parts, 11 = 2.2 + 2.2 + 2.2
 + 2.2 + 2.2, then P = 2.2<sup>5</sup> = 51.53632.
 
-Let M(N) = P~max~ for a given value of N.
+Let M(N) = P<sub>max</sub> for a given value of N.
 
 It turns out that the maximum for N = 11 is found by splitting eleven
-into four equal parts which leads to P~max~ = (11/4)<sup>4</sup>; that is, M(11)
+into four equal parts which leads to P<sub>max</sub> = (11/4)<sup>4</sup>; that is, M(11)
 = 14641/256 = 57.19140625, which is a terminating decimal.
 
 However, for N = 8 the maximum is achieved by splitting it into three

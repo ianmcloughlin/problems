@@ -19,10 +19,10 @@ point A', having elevation f. Then, while remaining at the same
 elevation f, it flies around any obstacles until it arrives at a point
 B' directly above B.
 
-First, determine f~min~ which is the minimum constant elevation allowing
+First, determine f<sub>min</sub> which is the minimum constant elevation allowing
 such a trip from A to B, while remaining in the specified area.\
  Then, find the length of the shortest path between A' and B', while
-flying at that constant elevation f~min~.
+flying at that constant elevation f<sub>min</sub>.
 
 Give that length as your answer, rounded to three decimal places.
 

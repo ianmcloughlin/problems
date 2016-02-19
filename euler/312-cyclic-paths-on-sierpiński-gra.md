@@ -6,15 +6,15 @@ Cyclic paths on Sierpiński graphs
 
 *Difficulty rating: 50%*
 
-- A **Sierpiński graph** of order-1 (S~1~) is an equilateral triangle.\
- - S~n+1~ is obtained from S~n~ by positioning three copies of S~n~ so
+- A **Sierpiński graph** of order-1 (S<sub>1</sub>) is an equilateral triangle.\
+ - S<sub>n+1</sub> is obtained from S<sub>n</sub> by positioning three copies of S<sub>n</sub> so
 that every pair of copies has one common corner.
 
 ![p312\_sierpinskyAt.gif](img/p312_sierpinskyAt.gif)
 
 Let C(n) be the number of cycles that pass exactly once through all the
-vertices of S~n~.\
- For example, C(3) = 8 because eight such cycles can be drawn on S~3~,
+vertices of S<sub>n</sub>.\
+ For example, C(3) = 8 because eight such cycles can be drawn on S<sub>3</sub>,
 as shown below:
 
 ![p312\_sierpinsky8t.gif](img/p312_sierpinsky8t.gif)

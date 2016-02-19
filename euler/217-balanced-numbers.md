@@ -7,7 +7,7 @@ Balanced Numbers
 *Difficulty rating: 70%*
 
 A positive integer with k (decimal) digits is called balanced if its
-first ⌈<sup>k</sup>/~2~⌉ digits sum to the same value as its last ⌈<sup>k</sup>/~2~⌉
+first ⌈<sup>k</sup>/<sub>2</sub>⌉ digits sum to the same value as its last ⌈<sup>k</sup>/<sub>2</sub>⌉
 digits, where ⌈x⌉, pronounced ceiling of x, is the smallest integer ≥ x,
 thus ⌈π⌉ = 4 and ⌈5⌉ = 5.
 

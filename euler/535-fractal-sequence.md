@@ -15,8 +15,8 @@ S = ①, 1, ②, 1, ③, 2, ④, 1, ⑤, 3, ⑥, 2, ⑦, ⑧, 4, ⑨, 1, ⑩, �
 The sequence is characterized by the following properties:
 
 -   The circled numbers are consecutive integers starting with 1.
--   Immediately preceding each non-circled numbers a~i~, there are
-    exactly ⌊√a~i~⌋ adjacent circled numbers, where ⌊⌋ is the floor
+-   Immediately preceding each non-circled numbers a<sub>i</sub>, there are
+    exactly ⌊√a<sub>i</sub>⌋ adjacent circled numbers, where ⌊⌋ is the floor
     function.
 -   If we remove all circled numbers, the remaining numbers form a
     sequence identical to S, so S is a **fractal sequence**.

@@ -9,13 +9,13 @@ Smooth divisors of binomial coefficients
 An integer is called **B-smooth** if none of its prime factors is
 greater than B.
 
-Let S~B~(n) be the largest B-smooth divisor of n.\
+Let S<sub>B</sub>(n) be the largest B-smooth divisor of n.\
  Examples:\
- S~1~(10) = 1\
- S~4~(2100) = 12\
- S~17~(2496144) = 5712
+ S<sub>1</sub>(10) = 1\
+ S<sub>4</sub>(2100) = 12\
+ S<sub>17</sub>(2496144) = 5712
 
-Define F(n) = ∑~1≤B≤n~ ∑~0≤r≤n~ S~B~(C(n,r)). Here, C(n,r) denotes the
+Define F(n) = ∑<sub>1≤B≤n</sub> ∑<sub>0≤r≤n</sub> S<sub>B</sub>(C(n,r)). Here, C(n,r) denotes the
 binomial coefficient.\
  Examples:\
  F(11) = 3132\

@@ -6,7 +6,7 @@ Double-base palindromes
 
 *Difficulty rating: 5%*
 
-The decimal number, 585 = 1001001001~2~ (binary), is palindromic in both
+The decimal number, 585 = 1001001001<sub>2</sub> (binary), is palindromic in both
 bases.
 
 Find the sum of all numbers, less than one million, which are

@@ -20,7 +20,7 @@ above.
 
 For example, T(1) = 10 and T(2) = 101.
 
-Let S(L) be the triple sum ∑~a,b,c~ gcd(T(c<sup>a</sup>), T(c<sup>b</sup>)) for 1 ≤ a, b,
+Let S(L) be the triple sum ∑<sub>a,b,c</sub> gcd(T(c<sup>a</sup>), T(c<sup>b</sup>)) for 1 ≤ a, b,
 c ≤ L.\
  For example:\
  S(2) = 10444\

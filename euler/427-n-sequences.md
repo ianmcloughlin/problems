@@ -6,8 +6,8 @@ n-sequences
 
 *Difficulty rating: 95%*
 
-A sequence of integers S = {s~i~} is called an n-sequence if it has n
-elements and each element s~i~ satisfies 1 ≤ s~i~ ≤ n. Thus there are
+A sequence of integers S = {s<sub>i</sub>} is called an n-sequence if it has n
+elements and each element s<sub>i</sub> satisfies 1 ≤ s<sub>i</sub> ≤ n. Thus there are
 n<sup>n</sup> distinct n-sequences in total. For example, the sequence S = {1, 5,
 5, 10, 7, 7, 7, 2, 3, 7} is a 10-sequence.
 

@@ -7,8 +7,8 @@ Investigating Ulam sequences
 *Difficulty rating: 75%*
 
 For two positive integers a and b, the Ulam sequence U(a,b) is defined
-by U(a,b)~1~ = a, U(a,b)~2~ = b and for k \> 2, U(a,b)~k~ is the
-smallest integer greater than U(a,b)~(k-1)~ which can be written in
+by U(a,b)<sub>1</sub> = a, U(a,b)<sub>2</sub> = b and for k \> 2, U(a,b)<sub>k</sub> is the
+smallest integer greater than U(a,b)<sub>(k-1)</sub> which can be written in
 exactly one way as the sum of two distinct previous members of U(a,b).
 
 For example, the sequence U(1,2) begins with\
@@ -17,4 +17,4 @@ For example, the sequence U(1,2) begins with\
 representations as the sum of two previous members, likewise 7 = 1 + 6 =
 3 + 4.
 
-Find ∑U(2,2n+1)~k~ for 2 ≤ n ≤10, where k = 10<sup>11</sup>.
+Find ∑U(2,2n+1)<sub>k</sub> for 2 ≤ n ≤10, where k = 10<sup>11</sup>.

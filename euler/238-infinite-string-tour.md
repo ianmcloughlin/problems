@@ -10,12 +10,12 @@ Create a sequence of numbers using the "Blum Blum Shub" pseudo-random
 number generator:
 
   ------------------------ ------------------------ ------------------------
-  s~0~                     s~n+1~
+  s<sub>0</sub>                     s<sub>n+1</sub>
   =                        =
-  14025256                 s~n~<sup>2</sup> mod 20300713
+  14025256                 s<sub>n</sub><sup>2</sup> mod 20300713
   ------------------------ ------------------------ ------------------------
 
-Concatenate these numbers  s~0~s~1~s~2~… to create a string w of
+Concatenate these numbers  s<sub>0</sub>s<sub>1</sub>s<sub>2</sub>… to create a string w of
 infinite length.\
  Then, w = 14025256741014958470038053646…
 

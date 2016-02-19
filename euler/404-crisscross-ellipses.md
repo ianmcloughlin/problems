@@ -6,8 +6,8 @@ Crisscross Ellipses
 
 *Difficulty rating: 60%*
 
-E~a~ is an ellipse with an equation of the form x<sup>2</sup> + 4y<sup>2</sup> = 4a<sup>2</sup>.\
- E~a~' is the rotated image of E~a~ by θ degrees counterclockwise around
+E<sub>a</sub> is an ellipse with an equation of the form x<sup>2</sup> + 4y<sup>2</sup> = 4a<sup>2</sup>.\
+ E<sub>a</sub>' is the rotated image of E<sub>a</sub> by θ degrees counterclockwise around
 the origin O(0, 0) for 0° \< θ \< 90°.
 
 ![p404\_c\_ellipse.gif](img/p404_c_ellipse.gif)

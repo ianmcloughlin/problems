@@ -6,11 +6,11 @@ Digit cancelling fractions
 
 *Difficulty rating: 5%*
 
-The fraction <sup>49</sup>/~98~ is a curious fraction, as an inexperienced
+The fraction <sup>49</sup>/<sub>98</sub> is a curious fraction, as an inexperienced
 mathematician in attempting to simplify it may incorrectly believe that
-<sup>49</sup>/~98~ = <sup>4</sup>/~8~, which is correct, is obtained by cancelling the 9s.
+<sup>49</sup>/<sub>98</sub> = <sup>4</sup>/<sub>8</sub>, which is correct, is obtained by cancelling the 9s.
 
-We shall consider fractions like, <sup>30</sup>/~50~ = <sup>3</sup>/~5~, to be trivial
+We shall consider fractions like, <sup>30</sup>/<sub>50</sub> = <sup>3</sup>/<sub>5</sub>, to be trivial
 examples.
 
 There are exactly four non-trivial examples of this type of fraction,

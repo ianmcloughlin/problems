@@ -11,7 +11,7 @@ all positive perfect squares.\
  For example, (9, 16) is inadmissible, while (0, 4), (3, 1) and (9, 4)
 are not.
 
-Consider a path from point (x~1~, y~1~) to point (x~2~, y~2~) using only
+Consider a path from point (x<sub>1</sub>, y<sub>1</sub>) to point (x<sub>2</sub>, y<sub>2</sub>) using only
 unit steps north or east.\
  Let's call such a path *admissible* if none of its intermediate points
 are inadmissible.

@@ -7,15 +7,15 @@ Triangles containing the origin II
 *Difficulty rating: 50%*
 
 Define:\
-x~n~ = (1248<sup>n</sup> mod 32323) - 16161\
-y~n~ = (8421<sup>n</sup> mod 30103) - 15051\
- P~n~ = {(x~1~, y~1~), (x~2~, y~2~), ..., (x~n~, y~n~)}
+x<sub>n</sub> = (1248<sup>n</sup> mod 32323) - 16161\
+y<sub>n</sub> = (8421<sup>n</sup> mod 30103) - 15051\
+ P<sub>n</sub> = {(x<sub>1</sub>, y<sub>1</sub>), (x<sub>2</sub>, y<sub>2</sub>), ..., (x<sub>n</sub>, y<sub>n</sub>)}
 
-For example, P~8~ = {(-14913, -6630), (-10161, 5625), (5226, 11896),
+For example, P<sub>8</sub> = {(-14913, -6630), (-10161, 5625), (5226, 11896),
 (8340, -10778), (15852, -5203), (-15165, 11295), (-1427, -14495),
 (12407, 1060)}.
 
-Let C(n) be the number of triangles whose vertices are in P~n~ which
+Let C(n) be the number of triangles whose vertices are in P<sub>n</sub> which
 contain the origin in the interior.
 
 Examples:\

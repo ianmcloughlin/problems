@@ -22,12 +22,12 @@ Now, let us repeat the search, but on a much larger scale:
 First, generate four million pseudo-random numbers using a specific form
 of what is known as a "Lagged Fibonacci Generator":
 
-For 1 ≤ *k* ≤ 55, *s*~*k*~ = [100003 − 200003*k* + 300007*k*<sup>3</sup>] (modulo
+For 1 ≤ *k* ≤ 55, *s*<sub>*k*</sub> = [100003 − 200003*k* + 300007*k*<sup>3</sup>] (modulo
 1000000) − 500000.\
- For 56 ≤ *k* ≤ 4000000, *s*~*k*~ = [*s*~*k−24*~ + *s*~*k−55*~ +
+ For 56 ≤ *k* ≤ 4000000, *s*<sub>*k*</sub> = [*s*<sub>*k−24*</sub> + *s*<sub>*k−55*</sub> +
 1000000] (modulo 1000000) − 500000.
 
-Thus, *s*~10~ = −393027 and *s*~100~ = 86613.
+Thus, *s*<sub>10</sub> = −393027 and *s*<sub>100</sub> = 86613.
 
 The terms of *s* are then arranged in a 2000×2000 table, using the first
 2000 numbers to fill the first row (sequentially), the next 2000 numbers

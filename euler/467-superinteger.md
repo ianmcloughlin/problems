@@ -21,13 +21,13 @@ defined similarly for {c(i)}):\
  P<sup>D</sup> = {2, 3, 5, 7, 2, 4, 8, 1, 5, 2, ...}\
  C<sup>D</sup> = {4, 6, 8, 9, 1, 3, 5, 6, 7, 9, ...}
 
-Let P~n~ be the integer formed by concatenating the first n elements of
-P<sup>D</sup> (C~n~ is defined similarly for C<sup>D</sup>).\
- P~10~ = 2357248152\
- C~10~ = 4689135679
+Let P<sub>n</sub> be the integer formed by concatenating the first n elements of
+P<sup>D</sup> (C<sub>n</sub> is defined similarly for C<sup>D</sup>).\
+ P<sub>10</sub> = 2357248152\
+ C<sub>10</sub> = 4689135679
 
 Let f(n) be the smallest positive integer that is a common superinteger
-of P~n~ and C~n~.\
+of P<sub>n</sub> and C<sub>n</sub>.\
 For example, f(10) = 2357246891352679, and f(100) mod 1 000 000 007 =
 771661825.
 

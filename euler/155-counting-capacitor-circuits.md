@@ -27,7 +27,7 @@ procedure described above, we have: D(1)=1, D(2)=3, D(3)=7 ...
 
 Find D(18).
 
-*Reminder :* When connecting capacitors C~1~, C~2~ etc in parallel, the
-total capacitance is C~T~ = C~1~ + C~2~ +...,\
+*Reminder :* When connecting capacitors C<sub>1</sub>, C<sub>2</sub> etc in parallel, the
+total capacitance is C<sub>T</sub> = C<sub>1</sub> + C<sub>2</sub> +...,\
  whereas when connecting them in series, the overall capacitance is
 given by: ![](img/p155_capsform.gif)

@@ -18,13 +18,13 @@ a convex hole on the given set of points.
 
 ![](img/p252_convexhole.gif)
 
-For our example, we used the first 20 points (T~2k−1~, T~2k~), for
+For our example, we used the first 20 points (T<sub>2k−1</sub>, T<sub>2k</sub>), for
 k = 1,2,…,20, produced with the pseudo-random number generator:
 
   ------------------------ ------------------------ ------------------------
-  S~0~                     S~n+1~                   T~n~
-  =~ ~                     =~ ~                     =~ ~
-  290797~ ~                S~n~<sup>2</sup> mod 50515093     ( S~n~ mod 2000 ) −
+  S<sub>0</sub>                     S<sub>n+1</sub>                   T<sub>n</sub>
+  =<sub> </sub>                     =<sub> </sub>                     =<sub> </sub>
+  290797<sub> </sub>                S<sub>n</sub><sup>2</sup> mod 50515093     ( S<sub>n</sub> mod 2000 ) −
                                                     1000<sup> </sup>
   ------------------------ ------------------------ ------------------------
 

@@ -9,20 +9,20 @@ An ant on the move
 On the Euclidean plane, an ant travels from point A(0, 1) to point B(d,
 1) for an integer d.
 
-In each step, the ant at point (x~0~, y~0~) chooses one of the lattice
-points (x~1~, y~1~) which satisfy x~1~ ≥ 0 and y~1~ ≥ 1 and goes
-straight to (x~1~, y~1~) at a constant velocity v. The value of v
-depends on y~0~ and y~1~ as follows:
+In each step, the ant at point (x<sub>0</sub>, y<sub>0</sub>) chooses one of the lattice
+points (x<sub>1</sub>, y<sub>1</sub>) which satisfy x<sub>1</sub> ≥ 0 and y<sub>1</sub> ≥ 1 and goes
+straight to (x<sub>1</sub>, y<sub>1</sub>) at a constant velocity v. The value of v
+depends on y<sub>0</sub> and y<sub>1</sub> as follows:
 
--   If y~0~ = y~1~, the value of v equals y~0~.
--   If y~0~ ≠ y~1~, the value of v equals (y~1~ - y~0~) / (ln(y~1~) -
-    ln(y~0~)).
+-   If y<sub>0</sub> = y<sub>1</sub>, the value of v equals y<sub>0</sub>.
+-   If y<sub>0</sub> ≠ y<sub>1</sub>, the value of v equals (y<sub>1</sub> - y<sub>0</sub>) / (ln(y<sub>1</sub>) -
+    ln(y<sub>0</sub>)).
 
 The left image is one of the possible paths for d = 4. First the ant
-goes from A(0, 1) to P~1~(1, 3) at velocity (3 - 1) / (ln(3) - ln(1)) ≈
+goes from A(0, 1) to P<sub>1</sub>(1, 3) at velocity (3 - 1) / (ln(3) - ln(1)) ≈
 1.8205. Then the required time is sqrt(5) / 1.8205 ≈ 1.2283.\
- From P~1~(1, 3) to P~2~(3, 3) the ant travels at velocity 3 so the
-required time is 2 / 3 ≈ 0.6667. From P~2~(3, 3) to B(4, 1) the ant
+ From P<sub>1</sub>(1, 3) to P<sub>2</sub>(3, 3) the ant travels at velocity 3 so the
+required time is 2 / 3 ≈ 0.6667. From P<sub>2</sub>(3, 3) to B(4, 1) the ant
 travels at velocity (1 - 3) / (ln(1) - ln(3)) ≈ 1.8205 so the required
 time is sqrt(5) / 1.8205 ≈ 1.2283.\
  Thus the total required time is 1.2283 + 0.6667 + 1.2283 = 3.1233.

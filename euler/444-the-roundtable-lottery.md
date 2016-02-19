@@ -33,10 +33,10 @@ Let E(p) represent the expected number of players left at the table when
 the game ends in a game consisting of p players (e.g. E(111) = 5.2912
 when rounded to 5 significant digits).
 
-Let S~1~(N) = ![p444\_sum.png](img/p444_sum.png) E(p)\
- Let S~k~(N) = ![p444\_sum.png](img/p444_sum.png) S~k-1~(p)
+Let S<sub>1</sub>(N) = ![p444\_sum.png](img/p444_sum.png) E(p)\
+ Let S<sub>k</sub>(N) = ![p444\_sum.png](img/p444_sum.png) S<sub>k-1</sub>(p)
 for k \> 1
 
-Find S~20~(10<sup>14</sup>) and write the answer in scientific notation rounded
+Find S<sub>20</sub>(10<sup>14</sup>) and write the answer in scientific notation rounded
 to 10 significant digits. Use a lowercase e to separate mantissa and
-exponent (e.g. S~3~(100) = 5.983679014e5).
+exponent (e.g. S<sub>3</sub>(100) = 5.983679014e5).

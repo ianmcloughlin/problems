@@ -34,9 +34,9 @@ example, F({ 4 1 3 2 }) = 5.
 
 We can list all permutations P of the integers {1, 2, ..., n} in
 **lexicographical order**, and assign to each permutation an index
-I~n~(P) from 1 to n! corresponding to its position in the list.
+I<sub>n</sub>(P) from 1 to n! corresponding to its position in the list.
 
-Let Q(n, k) = min(I~n~(P)) for F(P) = k, the index of the first
+Let Q(n, k) = min(I<sub>n</sub>(P)) for F(P) = k, the index of the first
 permutation requiring exactly k steps to sort with First Sort. If there
 is no permutation for which F(P) = k, then Q(n, k) is undefined.
 
@@ -44,7 +44,7 @@ For n = 4 we have:
 
 P
 
-I~4~(P)
+I<sub>4</sub>(P)
 
 F(P)
 

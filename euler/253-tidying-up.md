@@ -37,7 +37,7 @@ is
   ------------------------------------ ------------------------------------
 
 so the most likely value of M is 3 and the average value is
-<sup>385643</sup>⁄~113400~ = 3.400732, rounded to six decimal places.
+<sup>385643</sup>⁄<sub>113400</sub> = 3.400732, rounded to six decimal places.
 
 The most likely value of M for a forty-piece caterpillar is 11; but what
 is the average value of M?

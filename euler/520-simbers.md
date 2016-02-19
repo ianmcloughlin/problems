@@ -17,4 +17,4 @@ Let Q(n) be the count of all simbers with at most n digits.
 
 You are given Q(7) = 287975 and Q(100) mod 1 000 000 123 = 123864868.
 
-Find (∑~1≤u≤39~ Q(2<sup>u</sup>)) mod 1 000 000 123.
+Find (∑<sub>1≤u≤39</sub> Q(2<sup>u</sup>)) mod 1 000 000 123.

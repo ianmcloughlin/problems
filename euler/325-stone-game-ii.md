@@ -26,8 +26,8 @@ no matter what the first player does. For example, (2,3) and (3,4) are
 losing configurations: any legal move leaves a winning configuration for
 the second player.
 
-Define S(N) as the sum of (x~i~+y~i~) for all losing configurations
-(x~i~,y~i~), 0 \< x~i~ \< y~i~ ≤ N. We can verify that S(10) = 211 and
+Define S(N) as the sum of (x<sub>i</sub>+y<sub>i</sub>) for all losing configurations
+(x<sub>i</sub>,y<sub>i</sub>), 0 \< x<sub>i</sub> \< y<sub>i</sub> ≤ N. We can verify that S(10) = 211 and
 S(10<sup>4</sup>) = 230312207313.
 
 Find S(10<sup>16</sup>) mod 7<sup>10</sup>.

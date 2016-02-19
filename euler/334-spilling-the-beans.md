@@ -22,32 +22,32 @@ will finish the game:
 You are given the following sequences:\
 
   ------------------
-  t~*0*~ = 123456.
+  t<sub>*0*</sub> = 123456.
   ------------------
 
-t~*i*~ =
+t<sub>*i*</sub> =
 
 ![p334\_cases.gif](img/p334_cases.gif)
 
   ---------- ---
-  t~*i-1*~
+  t<sub>*i-1*</sub>
   ---------- ---
 
 ,
 
-if t~*i-1*~ is even
+if t<sub>*i-1*</sub> is even
 
 ![p334\_lfloor.gif](img/p334_lfloor.gif)
 
   ---------- ---
-  t~*i-1*~
+  t<sub>*i-1*</sub>
   ---------- ---
 
 ![p334\_rfloor.gif](img/p334_rfloor.gif)
 
 926252,
 
-if t~*i-1*~ is odd
+if t<sub>*i-1*</sub> is odd
 
 where ⌊x⌋ is the floor function
 
@@ -55,14 +55,14 @@ and ![p334\_oplus.gif](img/p334_oplus.gif) is the bitwise XOR
 operator.
 
   -----------------------------------
-  b~*i*~ = ( t~*i*~ mod 2<sup>11</sup>) + 1.
+  b<sub>*i*</sub> = ( t<sub>*i*</sub> mod 2<sup>11</sup>) + 1.
   -----------------------------------
 
-The first two terms of the last sequence are b~*1*~ = 289 and b~*2*~ =
+The first two terms of the last sequence are b<sub>*1*</sub> = 289 and b<sub>*2*</sub> =
 145.\
- If we start with b~*1*~ and b~*2*~ beans in two adjacent bowls, 3419100
+ If we start with b<sub>*1*</sub> and b<sub>*2*</sub> beans in two adjacent bowls, 3419100
 moves would be required to finish the game.
 
-Consider now 1500 adjacent bowls containing b~*1*~, b~*2*~,...,
-b~*1500*~ beans respectively, all other bowls being empty. Find how many
+Consider now 1500 adjacent bowls containing b<sub>*1*</sub>, b<sub>*2*</sub>,...,
+b<sub>*1500*</sub> beans respectively, all other bowls being empty. Find how many
 moves it takes before the game ends.

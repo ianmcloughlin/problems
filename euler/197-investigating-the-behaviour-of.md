@@ -8,7 +8,7 @@ rating: 45%
 
 Given is the function f(x) = ⌊2<sup>30.403243784-x<sup>2</sup></sup>⌋ × 10<sup>-9</sup> ( ⌊ ⌋ is
 the floor-function),\
- the sequence u~n~ is defined by u~0~ = -1 and u~n+1~ = f(u~n~).
+ the sequence u<sub>n</sub> is defined by u<sub>0</sub> = -1 and u<sub>n+1</sub> = f(u<sub>n</sub>).
 
-Find u~n~ + u~n+1~ for n = 10<sup>12</sup>.\
+Find u<sub>n</sub> + u<sub>n+1</sub> for n = 10<sup>12</sup>.\
  Give your answer with 9 digits after the decimal point.

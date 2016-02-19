@@ -6,10 +6,10 @@ Modulo Summations
 
 *Difficulty rating: 55%*
 
-Let a~n~ be a sequence recursively defined by:
+Let a<sub>n</sub> be a sequence recursively defined by:
 ![p326\_formula1.gif](img/p326_formula1.gif).
 
-So the first 10 elements of a~n~ are: 1,1,0,3,0,3,5,4,1,9.
+So the first 10 elements of a<sub>n</sub> are: 1,1,0,3,0,3,5,4,1,9.
 
 Let f(N,M) represent the number of pairs (p,q) such that:
 

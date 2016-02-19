@@ -21,8 +21,8 @@ combinations and S(A) = 1286.
 Using [sets.txt](project/resources/p105_sets.txt) (right click and "Save
 Link/Target As..."), a 4K text file with one-hundred sets containing
 seven to twelve elements (the two examples given above are the first two
-sets in the file), identify all the special sum sets, A~1~, A~2~, ...,
-A~*k*~, and find the value of S(A~1~) + S(A~2~) + ... + S(A~*k*~).
+sets in the file), identify all the special sum sets, A<sub>1</sub>, A<sub>2</sub>, ...,
+A<sub>*k*</sub>, and find the value of S(A<sub>1</sub>) + S(A<sub>2</sub>) + ... + S(A<sub>*k*</sub>).
 
 **Note:** This problem is related to [Problem 103](problem=103) and [Problem
 106](problem=106).

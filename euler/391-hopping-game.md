@@ -6,11 +6,11 @@ Hopping Game
 
 *Difficulty rating: 75%*
 
-Let s~k~ be the number of 1’s when writing the numbers from 0 to k in
+Let s<sub>k</sub> be the number of 1’s when writing the numbers from 0 to k in
 binary.\
  For example, writing 0 to 5 in binary, we have 0, 1, 10, 11, 100, 101.
-There are seven 1’s, so s~5~ = 7.\
- The sequence S = {s~k~ : k ≥ 0} starts {0, 1, 2, 4, 5, 7, 9, 12, ...}.\
+There are seven 1’s, so s<sub>5</sub> = 7.\
+ The sequence S = {s<sub>k</sub> : k ≥ 0} starts {0, 1, 2, 4, 5, 7, 9, 12, ...}.\
 
 A game is played by two players. Before the game starts, a number n is
 chosen. A counter c starts at 0. At each turn, the player chooses a

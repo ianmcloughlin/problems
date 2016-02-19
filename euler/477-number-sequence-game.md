@@ -26,10 +26,10 @@ follows:
 Player 1 score is 1 + 10 = 11.
 
 Let F(N) be the score of player 1 if both players follow the optimal
-strategy for the sequence S = {s~1~, s~2~, ..., s~N~} defined as:
+strategy for the sequence S = {s<sub>1</sub>, s<sub>2</sub>, ..., s<sub>N</sub>} defined as:
 
--   s~1~ = 0
--   s~i+1~ = (s~i~<sup>2</sup> + 45) modulo 1 000 000 007
+-   s<sub>1</sub> = 0
+-   s<sub>i+1</sub> = (s<sub>i</sub><sup>2</sup> + 45) modulo 1 000 000 007
 
 The sequence begins with
 S = {0, 45, 2070, 4284945, 753524550, 478107844, 894218625, ...}.

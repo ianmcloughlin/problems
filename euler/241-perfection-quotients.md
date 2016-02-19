@@ -26,4 +26,4 @@ A perfect number, as you probably know, is a number with σ(n) = 2n.
   -------------- -------------- -------------- -------------- --------------
 
 Find the sum of all positive integers n ≤ 10<sup>18</sup> for which p(n) has the
-form k + <sup>1</sup>⁄~2~, where k is an integer.
+form k + <sup>1</sup>⁄<sub>2</sub>, where k is an integer.

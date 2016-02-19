@@ -6,21 +6,21 @@ Weak Goodstein sequence
 
 *Difficulty rating: 40%*
 
-For any positive integer n, the **nth weak Goodstein sequence** {g~1~,
-g~2~, g~3~, ...} is defined as:
+For any positive integer n, the **nth weak Goodstein sequence** {g<sub>1</sub>,
+g<sub>2</sub>, g<sub>3</sub>, ...} is defined as:
 
--   g~1~ = n
--   for k \> 1, g~k~ is obtained by writing g~k-1~ in base k,
+-   g<sub>1</sub> = n
+-   for k \> 1, g<sub>k</sub> is obtained by writing g<sub>k-1</sub> in base k,
     interpreting it as a base k + 1 number, and subtracting 1.
 
-The sequence terminates when g~k~ becomes 0.
+The sequence terminates when g<sub>k</sub> becomes 0.
 
 For example, the 6th weak Goodstein sequence is {6, 11, 17, 25, ...}:
 
--   g~1~ = 6.
--   g~2~ = 11 since 6 = 110~2~, 110~3~ = 12, and 12 - 1 = 11.
--   g~3~ = 17 since 11 = 102~3~, 102~4~ = 18, and 18 - 1 = 17.
--   g~4~ = 25 since 17 = 101~4~, 101~5~ = 26, and 26 - 1 = 25.
+-   g<sub>1</sub> = 6.
+-   g<sub>2</sub> = 11 since 6 = 110<sub>2</sub>, 110<sub>3</sub> = 12, and 12 - 1 = 11.
+-   g<sub>3</sub> = 17 since 11 = 102<sub>3</sub>, 102<sub>4</sub> = 18, and 18 - 1 = 17.
+-   g<sub>4</sub> = 25 since 17 = 101<sub>4</sub>, 101<sub>5</sub> = 26, and 26 - 1 = 25.
 
 and so on.
 

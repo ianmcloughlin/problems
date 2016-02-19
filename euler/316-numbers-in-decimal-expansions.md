@@ -6,9 +6,9 @@ Numbers in decimal expansions
 
 *Difficulty rating: 55%*
 
-Let p = p~1~ p~2~ p~3~ ... be an infinite sequence of random digits,
+Let p = p<sub>1</sub> p<sub>2</sub> p<sub>3</sub> ... be an infinite sequence of random digits,
 selected from {0,1,2,3,4,5,6,7,8,9} with equal probability.\
- It can be seen that p corresponds to the real number 0.p~1~ p~2~ p~3~
+ It can be seen that p corresponds to the real number 0.p<sub>1</sub> p<sub>2</sub> p<sub>3</sub>
 ....\
  It can also be seen that choosing a random real number from the
 interval [0,1) is equivalent to choosing an infinite sequence of random
@@ -16,7 +16,7 @@ digits selected from {0,1,2,3,4,5,6,7,8,9} with equal probability.
 
 For any positive integer n with d decimal digits, let k be the smallest
 index such that\
-p~k,~ p~k+1~, ...p~k+d-1~ are the decimal digits of n, in the same
+p<sub>k,</sub> p<sub>k+1</sub>, ...p<sub>k+d-1</sub> are the decimal digits of n, in the same
 order.\
  Also, let g(n) be the expected value of k; it can be proven that g(n)
 is always finite and, interestingly, always an integer number.

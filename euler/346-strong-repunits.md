@@ -8,7 +8,7 @@ Strong Repunits
 
 The number 7 is special, because 7 is 111 written in base 2, and 11
 written in base 6\
-(i.e. 7~10~ = 11~6~ = 111~2~). In other words, 7 is a repunit in at
+(i.e. 7<sub>10</sub> = 11<sub>6</sub> = 111<sub>2</sub>). In other words, 7 is a repunit in at
 least two bases b \> 1.
 
 We shall call a positive integer with this property a strong repunit. It

@@ -47,4 +47,4 @@ number of disk-pickups is minimized.
 Interestingly enough, the result is always an integer. For example,
 E(2,5,1,3,5) = 60 and E(3,20,4,9,17) = 2358.
 
-Find the last nine digits of ∑~1≤n≤10000~ E(n,10<sup>n</sup>,3<sup>n</sup>,6<sup>n</sup>,9<sup>n</sup>).
+Find the last nine digits of ∑<sub>1≤n≤10000</sub> E(n,10<sup>n</sup>,3<sup>n</sup>,6<sup>n</sup>,9<sup>n</sup>).

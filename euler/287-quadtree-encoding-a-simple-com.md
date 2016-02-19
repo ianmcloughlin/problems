@@ -29,7 +29,7 @@ This image can be described by several sequences, for example :
  "**0**10**0**101111101110", of length 16, which is the minimal sequence
 for this image.
 
-For a positive integer N, define D~N~ as the 2<sup>N</sup>×2<sup>N</sup> image with the
+For a positive integer N, define D<sub>N</sub> as the 2<sup>N</sup>×2<sup>N</sup> image with the
 following coloring scheme:
 
 -   the pixel with coordinates x = 0, y = 0 corresponds to the bottom
@@ -38,4 +38,4 @@ following coloring scheme:
     black,
 -   otherwise the pixel is white.
 
-What is the length of the minimal sequence describing D~24~ ?
+What is the length of the minimal sequence describing D<sub>24</sub> ?

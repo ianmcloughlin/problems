@@ -6,14 +6,14 @@ Integer part of polynomial equation's solutions
 
 *Difficulty rating: 95%*
 
-For an n-tuple of integers t = (a~1~, ..., a~n~), let (x~1~, ..., x~n~)
-be the solutions of the polynomial equation x<sup>n</sup> + a~1~x<sup>n-1</sup> +
-a~2~x<sup>n-2</sup> + ... + a~n-1~x + a~n~ = 0.
+For an n-tuple of integers t = (a<sub>1</sub>, ..., a<sub>n</sub>), let (x<sub>1</sub>, ..., x<sub>n</sub>)
+be the solutions of the polynomial equation x<sup>n</sup> + a<sub>1</sub>x<sup>n-1</sup> +
+a<sub>2</sub>x<sup>n-2</sup> + ... + a<sub>n-1</sub>x + a<sub>n</sub> = 0.
 
 Consider the following two conditions:
 
--   x~1~, ..., x~n~ are all real.
--   If x~1~, ..., x~n~ are sorted, ⌊x~i~⌋ = i for 1 ≤ i ≤ n. (⌊·⌋: floor
+-   x<sub>1</sub>, ..., x<sub>n</sub> are all real.
+-   If x<sub>1</sub>, ..., x<sub>n</sub> are sorted, ⌊x<sub>i</sub>⌋ = i for 1 ≤ i ≤ n. (⌊·⌋: floor
     function.)
 
 In the case of n = 4, there are 12 n-tuples of integers which satisfy

@@ -8,11 +8,11 @@ Integers in base i-1
 
 Consider the Gaussian integer i-1. A **base i-1 representation** of a
 Gaussian integer a+bi is a finite sequence of digits
-d~n-1~d~n-2~...d~1~d~0~ such that:
+d<sub>n-1</sub>d<sub>n-2</sub>...d<sub>1</sub>d<sub>0</sub> such that:
 
--   a+bi = d~n-1~(i-1)<sup>n-1</sup> + d~n-2~(i-1)<sup>n-2</sup> + ... + d~1~(i-1) + d~0~
--   Each d~k~ is in {0,1}
--   There are no leading zeroes, i.e. d~n-1~ ≠ 0, unless a+bi is itself
+-   a+bi = d<sub>n-1</sub>(i-1)<sup>n-1</sup> + d<sub>n-2</sub>(i-1)<sup>n-2</sup> + ... + d<sub>1</sub>(i-1) + d<sub>0</sub>
+-   Each d<sub>k</sub> is in {0,1}
+-   There are no leading zeroes, i.e. d<sub>n-1</sub> ≠ 0, unless a+bi is itself
     0
 
 Here are base i-1 representations of a few Gaussian integers:\

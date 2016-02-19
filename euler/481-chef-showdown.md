@@ -24,16 +24,16 @@ chefs behave in the same manner. In the event that a chef has more than
 one equally-optimal elimination choice, assume that the chosen chef is
 always the one with the next-closest turn.
 
-Define W~n~(k) as the probability that chef \#k wins in a competition
+Define W<sub>n</sub>(k) as the probability that chef \#k wins in a competition
 with n chefs. If we have S(1) = 0.25, S(2) = 0.5, and S(3) = 1, then
-W~3~(1) = 0.29375.
+W<sub>3</sub>(1) = 0.29375.
 
-Going forward, we assign S(k) = F~k~/F~n+1~ over all 1 ≤ k ≤ n, where
-F~k~ is a Fibonacci number: F~k~ = F~k-1~ + F~k-2~ with base cases F~1~
-= F~2~ = 1. Then, for example, when considering a competition with n = 7
-chefs, we have W~7~(1) = 0.08965042, W~7~(2) = 0.20775702, W~7~(3) =
-0.15291406, W~7~(4) = 0.14554098, W~7~(5) = 0.15905291, W~7~(6) =
-0.10261412, and W~7~(7) = 0.14247050, rounded to 8 decimal places each.
+Going forward, we assign S(k) = F<sub>k</sub>/F<sub>n+1</sub> over all 1 ≤ k ≤ n, where
+F<sub>k</sub> is a Fibonacci number: F<sub>k</sub> = F<sub>k-1</sub> + F<sub>k-2</sub> with base cases F<sub>1</sub>
+= F<sub>2</sub> = 1. Then, for example, when considering a competition with n = 7
+chefs, we have W<sub>7</sub>(1) = 0.08965042, W<sub>7</sub>(2) = 0.20775702, W<sub>7</sub>(3) =
+0.15291406, W<sub>7</sub>(4) = 0.14554098, W<sub>7</sub>(5) = 0.15905291, W<sub>7</sub>(6) =
+0.10261412, and W<sub>7</sub>(7) = 0.14247050, rounded to 8 decimal places each.
 
 Let E(n) represent the expected number of dishes cooked in a competition
 with n chefs. For instance, E(7) = 42.28176050.

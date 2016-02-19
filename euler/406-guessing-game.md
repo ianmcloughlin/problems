@@ -47,7 +47,7 @@ Here are a few examples:\
  C(20000, 5, 7) = 82\
  C(2000000, √5, √7) = 49.63755955...
 
-Let F~k~ be the Fibonacci numbers: F~k~ = F~k-1~ + F~k-2~ with base
-cases F~1~ = F~2~ = 1.\
-Find ∑~1≤k≤30~ C(10<sup>12</sup>, √k, √F~k~), and give your answer rounded to 8
+Let F<sub>k</sub> be the Fibonacci numbers: F<sub>k</sub> = F<sub>k-1</sub> + F<sub>k-2</sub> with base
+cases F<sub>1</sub> = F<sub>2</sub> = 1.\
+Find ∑<sub>1≤k≤30</sub> C(10<sup>12</sup>, √k, √F<sub>k</sub>), and give your answer rounded to 8
 decimal places behind the decimal point.

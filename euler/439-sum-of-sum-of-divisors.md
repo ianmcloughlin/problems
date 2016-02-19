@@ -7,7 +7,7 @@ Sum of sum of divisors
 *Difficulty rating: 100%*
 
 Let d(k) be the sum of all divisors of k.\
- We define the function S(N) = ∑~1≤i≤N~ ∑~1≤j≤N~d(i·j).\
+ We define the function S(N) = ∑<sub>1≤i≤N</sub> ∑<sub>1≤j≤N</sub>d(i·j).\
  For example, S(3) = d(1) + d(2) + d(3) + d(2) + d(4) + d(6) + d(3) +
 d(6) + d(9) = 59.
 

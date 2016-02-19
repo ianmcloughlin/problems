@@ -10,8 +10,8 @@ Let π(x) be the prime counting function, i.e. the number of prime
 numbers less than or equal to x.\
  For example, π(1)=0, π(2)=1, π(100)=25.
 
-Let T(n,k) be the number of k-tuples (x~1~,…,x~k~) which satisfy:\
- 1. every x~i~ is a positive integer;\
+Let T(n,k) be the number of k-tuples (x<sub>1</sub>,…,x<sub>k</sub>) which satisfy:\
+ 1. every x<sub>i</sub> is a positive integer;\
  2. \$\\displaystyle \\sum\_{i=1}\^k \\pi(x\_i)=n\$
 
 For example T(3,3)=19.\

@@ -17,15 +17,15 @@ The player who rolls the highest value wins.
 
 If the first player picks die A and the second player picks die B we
 get\
- P(second player wins) = <sup>7</sup>/~12~ \> <sup>1</sup>/~2~
+ P(second player wins) = <sup>7</sup>/<sub>12</sub> \> <sup>1</sup>/<sub>2</sub>
 
 If the first player picks die B and the second player picks die C we
 get\
- P(second player wins) = <sup>7</sup>/~12~ \> <sup>1</sup>/~2~
+ P(second player wins) = <sup>7</sup>/<sub>12</sub> \> <sup>1</sup>/<sub>2</sub>
 
 If the first player picks die C and the second player picks die A we
 get\
- P(second player wins) = <sup>25</sup>/~36~ \> <sup>1</sup>/~2~
+ P(second player wins) = <sup>25</sup>/<sub>36</sub> \> <sup>1</sup>/<sub>2</sub>
 
 So whatever die the first player picks, the second player can pick
 another die and have a larger than 50% chance of winning.\

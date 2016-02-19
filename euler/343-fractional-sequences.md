@@ -6,12 +6,12 @@ Fractional Sequences
 
 *Difficulty rating: 35%*
 
-For any positive integer k, a finite sequence a~i~ of fractions
-x~i~/y~i~ is defined by:\
- a~1~ = 1/k and\
- a~i~ = (x~i-1~+1)/(y~i-1~-1) reduced to lowest terms for i\>1.\
- When a~i~ reaches some integer n, the sequence stops. (That is, when
-y~i~=1.)\
+For any positive integer k, a finite sequence a<sub>i</sub> of fractions
+x<sub>i</sub>/y<sub>i</sub> is defined by:\
+ a<sub>1</sub> = 1/k and\
+ a<sub>i</sub> = (x<sub>i-1</sub>+1)/(y<sub>i-1</sub>-1) reduced to lowest terms for i\>1.\
+ When a<sub>i</sub> reaches some integer n, the sequence stops. (That is, when
+y<sub>i</sub>=1.)\
  Define f(k) = n.\
  For example, for k = 20:
 

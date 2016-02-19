@@ -6,11 +6,11 @@ Sequences with nice divisibility properties
 
 *Difficulty rating: 55%*
 
-Let Seq(n,k) be the number of positive-integer sequences {a~i~}~1≤i≤n~
+Let Seq(n,k) be the number of positive-integer sequences {a<sub>i</sub>}<sub>1≤i≤n</sub>
 of length n such that:
 
--   n is divisible by a~i~ for 1 ≤ i ≤ n, and
--   n + a~1~ + a~2~ + ... + a~n~ is divisible by k.
+-   n is divisible by a<sub>i</sub> for 1 ≤ i ≤ n, and
+-   n + a<sub>1</sub> + a<sub>2</sub> + ... + a<sub>n</sub> is divisible by k.
 
 Examples:
 

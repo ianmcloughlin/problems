@@ -6,10 +6,10 @@ Scary Sphere
 
 *Difficulty rating: 50%*
 
-Given two points (x~1~,y~1~,z~1~) and (x~2~,y~2~,z~2~) in three
+Given two points (x<sub>1</sub>,y<sub>1</sub>,z<sub>1</sub>) and (x<sub>2</sub>,y<sub>2</sub>,z<sub>2</sub>) in three
 dimensional space, the **Manhattan distance** between those points is
 defined as\
- |x~1~-x~2~|+|y~1~-y~2~|+|z~1~-z~2~|.
+ |x<sub>1</sub>-x<sub>2</sub>|+|y<sub>1</sub>-y<sub>2</sub>|+|z<sub>1</sub>-z<sub>2</sub>|.
 
 Let C(r) be a sphere with radius r and center in the origin O(0,0,0).\
  Let I(r) be the set of all points with integer coordinates on the

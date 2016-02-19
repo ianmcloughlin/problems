@@ -6,18 +6,18 @@ Exploding sequence
 
 *Difficulty rating: 60%*
 
-Define the sequence a~1~, a~2~, a~3~, ... as:
+Define the sequence a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub>, ... as:
 
--   a~1~ = 1
--   a~n+1~ = 6a~n~<sup>2</sup> + 10a~n~ + 3 for n ≥ 1.
+-   a<sub>1</sub> = 1
+-   a<sub>n+1</sub> = 6a<sub>n</sub><sup>2</sup> + 10a<sub>n</sub> + 3 for n ≥ 1.
 
 Examples:\
- a~3~ = 2359\
- a~6~ = 269221280981320216750489044576319\
- a~6~ mod 1 000 000 007 = 203064689\
- a~100~ mod 1 000 000 007 = 456482974
+ a<sub>3</sub> = 2359\
+ a<sub>6</sub> = 269221280981320216750489044576319\
+ a<sub>6</sub> mod 1 000 000 007 = 203064689\
+ a<sub>100</sub> mod 1 000 000 007 = 456482974
 
-Define B(x,y,n) as ∑ (a~n~ mod p) for every prime p such that x ≤ p ≤
+Define B(x,y,n) as ∑ (a<sub>n</sub> mod p) for every prime p such that x ≤ p ≤
 x+y.
 
 Examples:\

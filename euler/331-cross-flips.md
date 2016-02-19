@@ -23,13 +23,13 @@ The bottom left disk on the N×N board has coordinates (0,0);\
  the bottom right disk has coordinates (N-1,0) and the top left disk has
 coordinates (0,N-1).
 
-Let C~N~ be the following configuration of a board with N×N disks:\
+Let C<sub>N</sub> be the following configuration of a board with N×N disks:\
  A disk at (x,y) satisfying
 ![p331\_crossflips1.gif](img/p331_crossflips1.gif), shows its
-black side; otherwise, it shows its white side. C~5~ is shown above.
+black side; otherwise, it shows its white side. C<sub>5</sub> is shown above.
 
 Let T(N) be the minimal number of turns to finish a game starting from
-configuration C~N~ or 0 if configuration C~N~ is unsolvable.\
+configuration C<sub>N</sub> or 0 if configuration C<sub>N</sub> is unsolvable.\
  We have shown that T(5)=3. You are also given that T(10)=29 and T(1
 000)=395253.
 

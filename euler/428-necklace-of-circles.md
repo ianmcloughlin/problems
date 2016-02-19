@@ -9,17 +9,17 @@ rating: 90%
 Let a, b and c be positive numbers.\
  Let W, X, Y, Z be four collinear points where |WX| = a, |XY| = b, |YZ|
 = c and |WZ| = a + b + c.\
- Let C~in~ be the circle having the diameter XY.\
- Let C~out~ be the circle having the diameter WZ.\
+ Let C<sub>in</sub> be the circle having the diameter XY.\
+ Let C<sub>out</sub> be the circle having the diameter WZ.\
 
 The triplet (a, b, c) is called a *necklace triplet* if you can place k
-≥ 3 distinct circles C~1~, C~2~, ..., C~k~ such that:
+≥ 3 distinct circles C<sub>1</sub>, C<sub>2</sub>, ..., C<sub>k</sub> such that:
 
--   C~i~ has no common interior points with any C~j~ for 1 ≤ i, j ≤ k
+-   C<sub>i</sub> has no common interior points with any C<sub>j</sub> for 1 ≤ i, j ≤ k
     and i ≠ j,
--   C~i~ is tangent to both C~in~ and C~out~ for 1 ≤ i ≤ k,
--   C~i~ is tangent to C~i+1~ for 1 ≤ i \< k, and
--   C~k~ is tangent to C~1~.
+-   C<sub>i</sub> is tangent to both C<sub>in</sub> and C<sub>out</sub> for 1 ≤ i ≤ k,
+-   C<sub>i</sub> is tangent to C<sub>i+1</sub> for 1 ≤ i \< k, and
+-   C<sub>k</sub> is tangent to C<sub>1</sub>.
 
 For example, (5, 5, 5) and (4, 3, 21) are necklace triplets, while it
 can be shown that (2, 2, 5) is not.

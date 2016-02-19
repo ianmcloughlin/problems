@@ -15,10 +15,10 @@ integers such that the sum of the digits in the n'th value is n.
 The sequence goes as follows:\
  1, 2, 3, 4, 32, 123, 43, 2123, 432, 1234, 32123, ...
 
-Let v~n~ be the n'th value in this sequence. For example, v~2~ = 2,
-v~5~ = 32 and v~11~ = 32123.
+Let v<sub>n</sub> be the n'th value in this sequence. For example, v<sub>2</sub> = 2,
+v<sub>5</sub> = 32 and v<sub>11</sub> = 32123.
 
-Let S(n) be v~1~ + v~2~ + ... + v~n~. For example, S(11) = 36120, and
+Let S(n) be v<sub>1</sub> + v<sub>2</sub> + ... + v<sub>n</sub>. For example, S(11) = 36120, and
 S(1000) mod 123454321 = 18232686.
 
 Find S(10<sup>14</sup>) mod 123454321.

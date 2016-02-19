@@ -6,11 +6,11 @@ Bounded Sequences
 
 *Difficulty rating: 90%*
 
-Let x~1~, x~2~,..., x~n~ be a sequence of length n such that:
+Let x<sub>1</sub>, x<sub>2</sub>,..., x<sub>n</sub> be a sequence of length n such that:
 
--   x~1~ = 2
--   for all 1 \< i ≤ n : x~i-*1*~ \< x~i~
--   for all i and j with 1 ≤ i, j ≤ n : (x~i~) <sup>j</sup> \< (x~j~ + 1)<sup>i</sup>
+-   x<sub>1</sub> = 2
+-   for all 1 \< i ≤ n : x<sub>i-*1*</sub> \< x<sub>i</sub>
+-   for all i and j with 1 ≤ i, j ≤ n : (x<sub>i</sub>) <sup>j</sup> \< (x<sub>j</sub> + 1)<sup>i</sup>
 
 There are only five such sequences of length 2, namely: {2,4}, {2,5},
 {2,6}, {2,7} and {2,8}.\

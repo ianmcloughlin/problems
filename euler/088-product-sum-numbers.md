@@ -7,9 +7,9 @@ Product-sum numbers
 *Difficulty rating: 40%*
 
 A natural number, N, that can be written as the sum and product of a
-given set of at least two natural numbers, {*a*~1~, *a*~2~, ... ,
-*a*~*k*~} is called a product-sum number: N = *a*~1~ + *a*~2~ + ... +
-*a*~*k*~ = *a*~1~ × *a*~2~ × ... × *a*~*k*~.
+given set of at least two natural numbers, {*a*<sub>1</sub>, *a*<sub>2</sub>, ... ,
+*a*<sub>*k*</sub>} is called a product-sum number: N = *a*<sub>1</sub> + *a*<sub>2</sub> + ... +
+*a*<sub>*k*</sub> = *a*<sub>1</sub> × *a*<sub>2</sub> × ... × *a*<sub>*k*</sub>.
 
 For example, 6 = 1 + 2 + 3 = 1 × 2 × 3.
 

@@ -28,12 +28,12 @@ configuration (**E**):
 For each path, its checksum is calculated by (pseudocode):
 
 checksum = 0\
- checksum = (checksum × 243 + m~1~) mod 100 000 007\
- checksum = (checksum × 243 + m~2~) mod 100 000 007\
+ checksum = (checksum × 243 + m<sub>1</sub>) mod 100 000 007\
+ checksum = (checksum × 243 + m<sub>2</sub>) mod 100 000 007\
     …\
- checksum = (checksum × 243 + m~n~) mod 100 000 007\
+ checksum = (checksum × 243 + m<sub>n</sub>) mod 100 000 007\
 
-where m~k~ is the ASCII value of the k<sup>th</sup> letter in the move sequence
+where m<sub>k</sub> is the ASCII value of the k<sup>th</sup> letter in the move sequence
 and the ASCII values for the moves are:
 
   ------------------------------------ ------------------------------------

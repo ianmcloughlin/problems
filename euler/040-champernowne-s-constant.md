@@ -13,8 +13,8 @@ integers:
 
 It can be seen that the 12<sup>th</sup> digit of the fractional part is 1.
 
-If *d*~*n*~ represents the *n*<sup>th</sup> digit of the fractional part, find
+If *d*<sub>*n*</sub> represents the *n*<sup>th</sup> digit of the fractional part, find
 the value of the following expression.
 
-*d*~1~ × *d*~10~ × *d*~100~ × *d*~1000~ × *d*~10000~ × *d*~100000~ ×
-*d*~1000000~
+*d*<sub>1</sub> × *d*<sub>10</sub> × *d*<sub>100</sub> × *d*<sub>1000</sub> × *d*<sub>10000</sub> × *d*<sub>100000</sub> ×
+*d*<sub>1000000</sub>

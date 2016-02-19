@@ -12,13 +12,13 @@ following formulae:
   -------------- -------------- -------------- -------------- --------------
   Triangle       Pentagonal     Hexagonal
                                  
-  T~*n*~=*n*(*n* P~*n*~=*n*(3*n H~*n*~=*n*(2*n
+  T<sub>*n*</sub>=*n*(*n* P<sub>*n*</sub>=*n*(3*n H<sub>*n*</sub>=*n*(2*n
   +1)/2          *−1)/2         *−1)
                                  
   1, 3, 6, 10,   1, 5, 12, 22,  1, 6, 15, 28,
   15, ...        35, ...        45, ...
   -------------- -------------- -------------- -------------- --------------
 
-It can be verified that T~285~ = P~165~ = H~143~ = 40755.
+It can be verified that T<sub>285</sub> = P<sub>165</sub> = H<sub>143</sub> = 40755.
 
 Find the next triangle number that is also pentagonal and hexagonal.

@@ -29,10 +29,10 @@ no matter what the first player does.\
  For example, (0,1,2) and (1,3,3) are losing configurations: any legal
 move leaves a winning configuration for the second player.
 
-Consider all losing configurations (x~i~,y~i~,z~i~) where x~i~ ≤ y~i~ ≤
-z~i~ ≤ 100.\
- We can verify that Σ(x~i~+y~i~+z~i~) = 173895 for these.
+Consider all losing configurations (x<sub>i</sub>,y<sub>i</sub>,z<sub>i</sub>) where x<sub>i</sub> ≤ y<sub>i</sub> ≤
+z<sub>i</sub> ≤ 100.\
+ We can verify that Σ(x<sub>i</sub>+y<sub>i</sub>+z<sub>i</sub>) = 173895 for these.
 
-Find Σ(x~i~+y~i~+z~i~) where (x~i~,y~i~,z~i~) ranges over the losing
+Find Σ(x<sub>i</sub>+y<sub>i</sub>+z<sub>i</sub>) where (x<sub>i</sub>,y<sub>i</sub>,z<sub>i</sub>) ranges over the losing
 configurations\
- with x~i~ ≤ y~i~ ≤ z~i~ ≤ 1000.
+ with x<sub>i</sub> ≤ y<sub>i</sub> ≤ z<sub>i</sub> ≤ 1000.

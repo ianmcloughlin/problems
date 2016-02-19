@@ -23,9 +23,9 @@ below.
 *n* = 4: {3, 5, 6, 7}\
 *n* = 5: {6, 9, 11, 12, 13}
 
-It *seems* that for a given optimum set, A = {*a*~1~, *a*~2~, ... ,
-*a*~n~}, the next optimum set is of the form B = {*b*, *a*~1~+*b*,
-*a*~2~+*b*, ... ,*a*~n~+*b*}, where *b* is the "middle" element on the
+It *seems* that for a given optimum set, A = {*a*<sub>1</sub>, *a*<sub>2</sub>, ... ,
+*a*<sub>n</sub>}, the next optimum set is of the form B = {*b*, *a*<sub>1</sub>+*b*,
+*a*<sub>2</sub>+*b*, ... ,*a*<sub>n</sub>+*b*}, where *b* is the "middle" element on the
 previous row.
 
 By applying this "rule" we would expect the optimum set for *n* = 6 to

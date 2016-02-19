@@ -6,23 +6,23 @@ Modified Fibonacci golden nuggets
 
 *Difficulty rating: 55%*
 
-Consider the infinite polynomial series A~G~(*x*) = *x*G~1~ + *x*<sup>2</sup>G~2~
-+ *x*<sup>3</sup>G~3~ + ..., where G~*k*~ is the *k*th term of the second order
-recurrence relation G~*k*~ = G~*k*−1~ + G~*k*−2~, G~1~ = 1 and G~2~ = 4;
+Consider the infinite polynomial series A<sub>G</sub>(*x*) = *x*G<sub>1</sub> + *x*<sup>2</sup>G<sub>2</sub>
++ *x*<sup>3</sup>G<sub>3</sub> + ..., where G<sub>*k*</sub> is the *k*th term of the second order
+recurrence relation G<sub>*k*</sub> = G<sub>*k*−1</sub> + G<sub>*k*−2</sub>, G<sub>1</sub> = 1 and G<sub>2</sub> = 4;
 that is, 1, 4, 5, 9, 14, 23, ... .
 
 For this problem we shall be concerned with values of *x* for which
-A~G~(*x*) is a positive integer.
+A<sub>G</sub>(*x*) is a positive integer.
 
 The corresponding values of *x* for the first five natural numbers are
 shown below.
 
   ------------------------------------ ------------------------------------
   ***x***                              (√5−1)/4
-  **A~G~(*x*)**                        1
+  **A<sub>G</sub>(*x*)**                        1
   ------------------------------------ ------------------------------------
 
-We shall call A~G~(*x*) a golden nugget if *x* is rational, because they
+We shall call A<sub>G</sub>(*x*) a golden nugget if *x* is rational, because they
 become increasingly rarer; for example, the 20th golden nugget is
 211345365.
 

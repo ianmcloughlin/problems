@@ -6,7 +6,7 @@ Binomial coefficients divisible by 10
 
 *Difficulty rating: 70%*
 
-Let T(m, n) be the number of the binomial coefficients <sup>i</sup>C~n~ that are
+Let T(m, n) be the number of the binomial coefficients <sup>i</sup>C<sub>n</sub> that are
 divisible by 10 for n ≤ i \< m(i, m and n are positive integers).\
  You are given that T(10<sup>9</sup>, 10<sup>7</sup>-10) = 989697000.
 

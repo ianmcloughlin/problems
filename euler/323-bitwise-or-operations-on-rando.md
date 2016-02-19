@@ -6,17 +6,17 @@ Bitwise-OR operations on random integers
 
 *Difficulty rating: 20%*
 
-Let y~0~, y~1~, y~2~,... be a sequence of random unsigned 32 bit
+Let y<sub>0</sub>, y<sub>1</sub>, y<sub>2</sub>,... be a sequence of random unsigned 32 bit
 integers\
- (i.e. 0 ≤ y~i~ \< 2<sup>32</sup>, every value equally likely).
+ (i.e. 0 ≤ y<sub>i</sub> \< 2<sup>32</sup>, every value equally likely).
 
-For the sequence x~i~ the following recursion is given:\
+For the sequence x<sub>i</sub> the following recursion is given:\
 
--   x~0~ = 0 and
--   x~i~ = x~i-*1*~**|** y~i-*1*~, for i \> 0. ( **|** is the bitwise-OR
+-   x<sub>0</sub> = 0 and
+-   x<sub>i</sub> = x<sub>i-*1*</sub>**|** y<sub>i-*1*</sub>, for i \> 0. ( **|** is the bitwise-OR
     operator)
 
-It can be seen that eventually there will be an index N such that x~i~ =
+It can be seen that eventually there will be an index N such that x<sub>i</sub> =
 2<sup>32</sup> -1 (a bit-pattern of all ones) for all i ≥ N.
 
 Find the expected value of N.\
