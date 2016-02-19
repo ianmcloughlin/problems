@@ -32,9 +32,9 @@ checksum = 0
 where m<sub>k</sub> is the ASCII value of the k<sup>th</sup> letter in the move sequence
 and the ASCII values for the moves are:
 
-|**L**|**R**|
-|--:|--:|
-|76|82|
+|**L**|**R**|**U**|**D**|
+|--:|--:|--:|--:|
+|76|82|85|68|
 
 For the sequence **LULUR** given above, the checksum would be 19761398.
 
