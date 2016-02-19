@@ -16,9 +16,9 @@ configuration (**E**):
 
   ------------------ ------------------ ------------------ ------------------
   (**S**)
-  ![p244\_start.gif](img/p244_start.gif)
+  ![img/p244_start.gif](img/p244_start.gif)
   , (**E**)
-  ![p244\_example.gif](img/p244_example.gif)
+  ![img/p244_example.gif](img/p244_example.gif)
   ------------------ ------------------ ------------------ ------------------
 
 For each path, its checksum is calculated by (pseudocode):
@@ -43,13 +43,9 @@ reach configuration (**T**).
 
   ------------------ ------------------ ------------------ ------------------
   (**S**)
-  ![p244\_start.gif]
-  (img/p2
-  44_start.gif)
+  ![img/p244_start.gif](img/p244_start.gif)
   , (**T**)
-  ![p244\_target.gif
-  ](img/p
-  244_target.gif)
+  ![p244\_target.gif](img/p_244_target.gif)
   ------------------ ------------------ ------------------ ------------------
 
 What is the sum of all checksums for the paths having the minimal
